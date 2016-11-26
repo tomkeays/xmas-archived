@@ -1,0 +1,78 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Homeless Wassail, The
+C:Ian Robb, 1998
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 4            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:4/4
+Q:1/4=100
+K:Amin
+%
+E2 | A3 B c2 e2 | d2 BA G3 B |
+w: Was- sail, was- sail all o- ver the town, Our
+%
+c2 A2 B2 AG | E2 G2 A4- | A2 E2 A3 B |
+w: cup is white and our ale is brown;_ But hud- dled
+%
+c2 e2 d2 (BA) | G3 B c2 A2 | (BA) G2 E2 G2 | A6 ||
+w: on this i- ron_ grate, We poor and hun_ gry curse our fate.
+%
+"Chorus:"
+G2 | c2 c2 c2 (Bc) | d2 d2 e3 d | c2 A2 (BA) G2 |
+w: No Was-sail bowl for_ such as these, No tur- key scraps,_ no
+%
+A2 G2 (E^F) G2 | c2 c2 c2 (Bc) |
+w: ale,  no cheese;_  This Christ- mas Eve our_ 
+%
+d3 G e4- | e2 ed cc A2 | B2 AG E2 G2 | A6 |]
+w: heart's de- sire_ Is a bot- tle of gin and a trash can fire.
+%
+%%vskip 0.8cm
+%
+W: 1. Wassail, wassail all over the town,
+W:    Our cup is white and our ale is brown;
+W:    But huddled on this iron grate
+W:    We poor and hungry curse our fate.
+W:
+W: Chorus:
+W:    No Wassail bowl for such as these,
+W:    No turkey scraps, no ale, no cheese;
+W:    This Christmas Eve our heart's desire
+W:    Is a bottle of gin and a trash can fire.
+W:
+W: 2. Good Christian mind as home you go,
+W:    With dreams of holly and mistletoe,
+W:    That the holly bears a dreadful thorn
+W:    For those who wake to a frozen dawn
+W:
+W: 3. Oh, where is he that holy child
+W:    Once born of Mary, meek and mild?
+W:    And wither peace, good will to men
+W:    Now and forevermore, amen?
+W:
+W: 4. All ye who dine with face aglow
+W:    In reginensi atrio
+W:    Pray, pause awhile at pleasure's door
+W:    And sup some sorrow with the poor.
+W:
+W:    Last time, no chorus
+W: 5. Wassail, wassail all over the town
+W:    Our cup is white and our ale is brown;
+W:    This cold and hunger pain and care,
+W:    Sweet Jesus Christ, it's hard to bear!
+W:
+
+%%textfont Times-Italic 14
+%%begintext fill
+%%Provoked by some sad sights on the inhospitable winter streets of Toronto,
+%%this song attempts to invoke the Christmas tradition of remembering those
+%%who find no room at the inn. In doing so, it borrows from some very
+%%illustrious older songs: wassails, carols and even Stephen Foster's
+%%magnificent "Hard Times."
+%%[Tune and notes transcribed from Finest Kind "Heart's Delight."]
+%%endtext

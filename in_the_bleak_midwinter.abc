@@ -1,0 +1,83 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:In the Bleak Midwinter
+C:Words by Christina Rossetti
+C:Music by Gustav Holst
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+M:C
+L:1/4
+K:G dorian
+%
+[V:1] A  | A>B   c A   | G>-G   F z  | G>A    G   D   | G3        z |
+[V:2] F  | F>F   F C   | D>-D   D z  | D>D    D   C   | B,3       z |
+w: 1. In the bleak mid- win_ ter, Fros- ty wind made moan,
+w: 4. An- gels and arch- an_ gels, May have ga- thered there,
+w: 5. What_ can I give_ him, Poor_ as I am?
+[V:3] C  | C>C   C  F, | A,>-A, A, z | G,>D,  D,  F,  | (F,2  E,) z |
+[V:4] F, | F,>G, A, F, | D,>-D, D, z | B,,>C, B,, A,, | (G,,2 C,) z |
+%
+[V:1] A>B   c  A  | G>-G   F  z | (G   A)   G>F    | F3   F  |
+[V:2] C>F   F  C  | D>-D   D  z | (F   F)   E>F    | F3   F  |
+w: Earth stood hard as i_ ron,  Wa- ter like a stone; *
+w: Che- ru- bim and se- ra- phim,  Throng_ \'ed the air: But
+w: If I were a shep_ herd  I would  bring a lamb; *
+[V:3] F,>C  C  F, | A,>-A, A, z | (D   D)   B,>A,  | A,3  A, |
+[V:4] F,>G, A, F, | D,>-D, D, z | (B,, B,,) C,>F,  | F,3  F, |
+%
+[V:1] B>A   B  c  | d   d   A  z | c   A   G   F   | E3  E  |
+[V:2] F>F   F _E  | D   D   F  z | F   E   D   D   | C3  C  |
+w: Snow had fal- len, snow on snow, Snow_ on_ snow, *
+w: on - ly his mo - ther, In her maid- en bliss, *
+w: If I were a wise_ man, I would do my part; Yet
+[V:3] B,>C  B, A, | B,  B,  A, z | F,  C   B,  A,  | G,3 G, |
+[V:4] D,>F, D, C, | B,, B,, D, z | A,, A,, B,, B,, | C,3 C, |
+%
+[V:1] A>B   c  A  | G2  F  z | G A  (G>F)   | F3  |]
+[V:2] C>F   F  C  | D2  D  z | F2   (E>F)   | F3  |]
+w: In the bleak mid- win- ter, Long a_ go.
+w: Wor- shipped the Be- lov- ed With a_ kiss.
+w: what I can I give him, Give my_ heart.
+[V:3] F,>C  C  F, | A,2 A, z | D2   (B,>A,) | A,3 |]
+[V:4] F,>G, A, F, | D,2 D, z | B,,2 (C,>F,) | F,3 |]
+%
+%%newpage
+%
+W: 1. In the bleak mid-winter, Frosty wind made moan,
+W:    Earth stood hard as iron, Water like a stone;
+W:    Snow had fallen, snow on snow, Snow on snow,
+W:    In the bleak midwinter, Long ago.
+W:
+W: 4. Angels and archangels, May have gathered there,
+W:    Cherubim and seraphim Thronged the air:
+W:    But only his mother In her maiden bliss
+W:    Worshipped the Beloved With a kiss.
+W:
+W: 5. What can I give him, Poor as I am?
+W:    If I were a shepherd I would  bring a lamb;
+W:    If I were a wise man I would do my part;
+W:    Yet what I can I give him, Give my heart.
+W:
+W: We sing verses 1, 4, 5.
+W:
+W: 2. Our God in heav'n cannot hold him Nor earth sustain;
+W:    Heav'n and earth shall flee away When he comes to reign:
+W:    In the bleak mid-winter A stable place sufficed
+W:    The Lord God Almighty, Jesus Christ.
+W:
+W: 3. Enough for him, whom cherubim Worship night and day,
+W:    A breastful of milk, And a mangerful of hay;
+W:    Enough for him, whom angels Fall down before,
+W:    The ox and ass and camel Which adore.
+

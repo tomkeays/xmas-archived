@@ -1,0 +1,28 @@
+% TITLE PAGE
+%
+%%textfont Times-Bold 30
+%%center Christmas Carols 2007
+
+%kludge to get the first title to print in the footer
+%%footer	"Arise and Hail the Joyful Day	$P	$D"
+
+%%newpage
+
+% PAGE LAYOUT
+%
+% FONT
+%
+%%titlefont    Times-Bold 24
+%%subtitlefont Times-Bold 18
+%%composerfont Times-Italic 14
+%%vocalfont    Times-Bold 14  % for lyrics
+%%gchordfont   Times-Bold 14  % for chords
+%
+% MISC
+%
+%%measurebox true       % measure numbers in a box
+%%measurenb 0           % measure numbers at first measure
+%%exprabove true        % expressions above the staff
+%%barsperstaff 5        % number of measures per staff
+%%scale 0.7             % magnification (0.7 = default)
+

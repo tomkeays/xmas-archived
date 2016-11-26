@@ -1,0 +1,40 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Wintertime
+C:Music: George Gershwin
+C:Words: Susan Galbraith and an angel throng
+C: - with apologies to Du Bose Heyward
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:C|
+L:1/4
+K:A %Transposed from D
+%
+"swing it"c A | c4- | c z B/>A/ B/>c/ A | F2 C2- | C z c A |
+w: Win- ter- time_ and a star is a-blaz- ing_ An- gels
+w: On Easter morn- ing you're go-ing to rise up sing- ing You'll roll
+%
+B/ B3/2- B2 | z A/>F/ A/>F/ A | G4- | G2 c/ c/ | c A c2 |
+w: sing- ing_ as the shep- herds draw nigh._ Oh, your dad- dy's God
+w: back that stone and you'll take to the sky._ Be- fore that morn- ing
+%
+z B/>A/ B/>c/ A | F2 C2- | C2 z C | E C/E/ F A | (c/ B3/2) A2 | (A F3) | z2 |]
+w: and your mom- ma's a vir- gin_ So hush lit- tle ba- by, don't_ you cry._
+w: you bet- ter get some dis- ci- ples, But watch out for Ju- das, that_ one's sly._
+%
+%%vskip 0.8cm
+%
+W: 1. Wintertime and a star is a-blazing,
+W:    Angels singing as the shepherds draw nigh.
+W:    Oh, your daddy's God and your momma's a virgin,
+W:    So hush little baby, don't you cry.
+W:
+W: 2. On Easter morning you're going to rise up singing.
+W:    You'll roll back that stone and you'll take to the sky.
+W:    Before that morning you better get some disciples,
+W:    But watch out for Judas, that one's sly.

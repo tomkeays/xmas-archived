@@ -1,0 +1,71 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Orientis Partibus
+C:anon. medieval carol
+C:English words, Susan Cooper
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:2/4
+L:1/4
+Q:120
+K:D %Transposed from F
+%
+D/E/ F/D/ | E/=C/ D | A/A/ B/G/ | A/A/ F |
+w: O- ri- en- tis par- ti- bus ad- ven- ta- vit a- si- nus,
+%
+F/E/ G/F/ | E/D/ F | A/G/ F/D/ | E/=C/ D ||
+w: pul- cher et for- tis- si- mus, Sar- ci- nis ap- tis- si- mus.
+%
+D/E/ F/E/ | D z |]
+w: Hez, Sir As- nes, hez!
+%
+%%vskip 0.8cm
+%
+W: 1. Orientis partibus,
+W:    Adventavit asinus,
+W:    Pulcher et fortisimus,
+W:    Sarcinis aptisimus.
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 2. From the East the donkey came,
+W:    Stout and strong as twenty men;
+W:    Ears like wings and eyes like flame,
+W:    Striding into Bethlehem.
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 3. Faster than the deer he leapt,
+W:    With his burden on his back;
+W:    Though all other creatures slept,
+W:    Still the ass kept on his track.
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 4. Still he draws his heavy load,
+W:    Fed on barley and rough hay;
+W:    Pulling on along the road -
+W:    Donkey pull our sins away!
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 5. Wrap him now in cloth of gold;
+W:    All rejoice who see him pass;
+W:    Mirth inhabit young and old
+W:    On this feast day of the ass.
+W:    Hez, Sir Asnes, Hez!
+W:
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%The "Song of the Ass," important in the early history of Western
+%%music, was sung during the Middle Ages as a processional at Sens,
+%%when a donky was ridden into the Cathedral. The irrepressible
+%%popular humor of the Feast of Fools and similar mediaeval festivals
+%%is found in the carol's "braying" refrain, which was sung by the clergy.
+%%Source: The Christmas Revels Songbook, 2nd edition, 1995.
+%%[The Feast Day of the Ass or Festum Asinorum is January 14.]
+%%endtext
+

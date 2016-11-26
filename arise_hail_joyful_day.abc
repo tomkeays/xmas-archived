@@ -1,0 +1,104 @@
+%%footer	"$T	$P	December 19, 2007"
+
+X:1
+T:Arise and Hail the Joyful Day
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=treble name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 6            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [1 | 2 | 3 | 4]
+U: H = fermata
+%
+M:C|
+L:1/4
+K:G
+%
+[V:1] G2 F G | A2 B2 | A3 A | B3 d | d2 c2 | (c>B) (A>G) |
+w: A-  rise  and hail the  joy-   ful day.   Of your Re-  deem_ er's_
+w: Be-  hold and hear what news   we  bring. To lost man- kind_ this_
+w: Then let  us  join in   choirs a-  bove.  To ce-  le-  brate_ His_
+%
+[V:2] D2 D D | C2 D2 | E2 F2 | G3 F | D2 E2 | E2 C2 |
+w: A- rise   and hail the  joy-   ful day.   Of your Re-  deem- er's
+w: Be-  hold and hear what news   we  bring. To lost man- kind  this 
+w: Then let  us  join in   choirs a-  bove.  To ce-  le-  brate  His 
+%
+[V:3] B2 A B | c2 (B G) | (A/B/c/A/ G) F | G3A | B2 G2 | (c>B) (A>G) |
+w: A-   rise and hail the_  joy____    ful day.   Of your Re-  deem_  er's_
+w: Be-  hold and hear what_ news____   we  bring. To lost man- kind_  this_
+w: Then let  us  join in_   choirs____ a-  bove.  To ce-  le-  brate_ His_
+%
+[V:4] G,,2 D, D, | F,2 G,2 | C,2 D,2 | G,,3 D, | (G,>F,) (E,>D,) | A,2 A,,2 |
+w: A-   rise and hail the  joy-   ful day.   Of your_ Re_  deem- er's
+w: Be-  hold and hear what news   we  bring. To lost_ man_ kind  this
+w: Then let  us  join in   choirs a-  bove.  To ce_   le_  brate His
+%
+[V:1] F4 |: G2 G G | G G F E | F3 z | z4 | z4 |
+w: birth; Lift  up    your voi- ces to    the   sky;
+w: day;   Sweet hal-  le-  lu-  jah let   us    sing,
+w: name,  In    sing- ing  of   His won-  drous love,
+%
+[V:2] D4 |: D2 D D | D E F G | F3 z | z4 | z2 z (G/F/) |
+w: birth; Lift  up    your voi- ces to    the   sky;  A_
+w: day;   Sweet hal-  le-  lu-  jah let   us    sing, And_
+w: name,  In    sing- ing  of   His won-  drous love, And_
+%
+[V:3] A4 |: (d c) B A | B c B/A/ G | A3 B/c/ | d d d e | d3 (d/c/) |
+w: birth; Lift_  up    your voi- ces to_   the   sky;  A_   Sav-   iour born    on  earth, A_
+w: day;   Sweet_ hal-  le-  lu-  jah let_  us    sing, And_ join   the  heav'n- ly  lay,   And_
+w: name,  In_    sing- ing  of   His won_  drous love, And_ sprea- ding forth   his fame, And_ 
+%
+[V:4] D,4 |: G,2 G, D, | G,, A,, B,, C, | D,4- | D,3 E,/F,/ | G, G, G, B,, |
+w: birth; Lift  up    your voi- ces to    the   sky;_  A_   Sav-   iour born    on
+w: day;   Sweet hal-  le-  lu-  jah let   us    sing,_ And_ join   the  heav'n- ly
+w: name,  In    sing- ing  of   His won-  drous love,_ And_ sprea- ding forth   his
+%
+[V:1] z2 z G | G G G G | G3 G | E E D D | D4 :|
+w: A   Sav-    iour born    on  earth, A   Sav-    iour born    on  earth.
+w: And join    the  heav'n- ly  lay,   And join    the  heav'n- ly  lay.
+w: And spread- ing  forth   his fame,  And spread- ing  forth   his fame.
+%
+[V:2] E E E D | E3 G, | B, B, D D  | C2 D D  | B,4 :|
+w: Sav-    iour born    on  earth, A   Sav-    iour born    on  earth, born    on  earth.
+w: join    the  heav'n- ly  lay,   And join    the  heav'n- ly  lay,   heav'n- ly  lay.
+w: spread- ing  forth   his fame,  And spread- ing  forth   his fame,  forth   his fame.
+%
+[V:3] B B B B | c2 (B c) | (d/e/d/c/ B) G | G2 F2 | G4 :|
+w: Sav-    iour born    on  earth, A_   Sav____    iour born    on  earth.
+w: join    the  heav'n- ly  lay,   And_ join____   the  heav'n- ly  lay.
+w: spread- ing  forth   his fame,  And_ spread____ ing  forth   his fame.
+%
+[V:4] E,3 D, | C, C, C, C, | B,,2 G,,2 | C,2 D,2 | G,,4 :|
+w: earth, A   Sav-    iour born,   A   Sav-    iour born    on earth.
+w: lay,   And join    the  heav'n, And join    the  heav'n- ly lay.
+w: fame,  And spread- ing  forth,  And spread- ing  forth   his fame.
+%
+%%vskip 0.8cm
+%
+W: 1. Arise and hail the joyful day
+W:    Of your Redeemer's birth;
+W:    Lift up your voices to the sky;
+W:    A Saviour born on earth.
+W:
+W: 2. Behold and hear what news we bring
+W:    To lost mankind this day;
+W:    Sweet hallelujah let us sing,
+W:    And join the heav'nly lay.
+W:
+W: 3. He comes, poor sinners to redeem,
+W:    Who so affronted God;
+W:    To heal their souls from death and sin,
+W:    And save them with his blood.
+W:
+W: 4. Then let us join in choirs above
+W:    To celebrate His name,
+W:    In singing of His wonderous love,
+W:    And spreading forth his fame.
+

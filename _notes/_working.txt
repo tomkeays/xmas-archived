@@ -1,0 +1,90 @@
+X:2
+T:Hunting the Wren
+S:"Manx Ballads & Music," (1896) edited by A. W. Moore, p.64
+Z:http://www.isle-of-man.com/manxnotebook/fulltext/mb1896/index.htm
+Z:http://www.isle-of-man.com/manxnotebook/fulltext/mb1896/p064.htm
+M:none
+K:none
+
+%%textfont Times-Italic 14
+%%begintext fill
+%%"Manx Ballads & Music," (1896) edited by A. W. Moore, has these translated
+%%verses which may have formed the basis for Barrand and Roberts' version.
+%%endtext
+%%vskip 0.8cm
+
+W: We'll away to the wood, says Robin to Bobbin; 
+W: We'll away to the wood, says Richard to Robin. 
+W: We'll away to the wood, says Jack of the Land; 
+W: We'll away to the wood, says everyone. 
+W: 
+W: What shall we do there? says Robin to Bobbin; 
+W: Repeat these lines as above. 
+W: 
+W: We will hunt the wren, says Robin to Bobbin. 
+W: Repeat, etc.
+W: 
+W: Where is he? where is he? says Robin to Bobbin. 
+W: 
+W: In yonder green bush, says Robin to Bobbin. 
+W: 
+W: I see him, I see him, says Robin to Bobbin. 
+W: 
+W: How shall we get him down, says Robin to Bobbin. 
+W: 
+W: With sticks and stones, says Robin to Bobbin. 
+W: 
+W: He is dead, he is dead, says Robin to Bobbin., 
+W: 
+W: How shall we get him home? says Robin to Bobbin. 
+W: 
+W: We'll hire a cart, says Robin to Bobbin. 
+W: 
+W: Whose cart shall we hire? says Robin to Bobbin. 
+W: 
+W: Johnny Bill Fell's, says Robin to Bobbin. 
+W: 
+W: Who will stand driver? says Robin to Bobbin. 
+W: 
+W: Filley the Tweet, says Robin to Bobbin. 
+W: 
+W: He's home, he's home, says Robin to Bobbin. 
+W: 
+W: How shall we get him boil'd? says Robin to Bobbin. 
+W: 
+W: In the brewery pan, says Robin to Bobbin. 
+W: 
+W: How shall we get him in? says Robin to Bobbin. 
+W: 
+W: With iron bars and a rope, says Robin to Bobbin 
+W: 
+W: He is in, he is in, says Robin to Bobbin. 
+W: 
+W: He is boil'd, he is boil'd, says Robin to Bobbin. 
+W: 
+W: How shall we get him out? says Robin to Bobbin. 
+W: 
+W: With a long pitchfork, says Robin to Bobbin. 
+W: 
+W: He is out, he is out, says Robin to Bobbin. 
+W: 
+W: Who's to dine at the dinner? says Robin to Bobbin. 
+W: 
+W: The King and the Queen, says Robin to Bobbin. 
+W: 
+W: How shall we get him eat? says Robin to Bobbin. 
+W: 
+W: With knives and forks, says Robin to Bobbin. 
+W: 
+W: He is eat, he is eat, says Robin to Bobbin. 
+W: 
+W: The eyes for the blind, says Robin to Bobbin. 
+W: The legs for the lame, says Richard to Robin; 
+W: The pluck for the poor, says Jack of the land; 
+W: The bones for the dogs, says every one. 
+W: 
+W: The wren, the wren, the king of all birds, 
+W: We have caught, St. Stephen's Day, in the furze; 
+W: Although he is little, his family's great, 
+W: I pray you, good dame, do give us a treat. 
+

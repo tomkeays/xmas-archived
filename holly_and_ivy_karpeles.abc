@@ -1,0 +1,75 @@
+%%footer	"$T	$P	December 19, 2007"
+
+X:1
+T:Holly and the Ivy, The
+C:collected by Maud Karpeles and Pat Shaw
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:3/4
+L:1/4
+Q:130
+K:F %Transposed from G
+%
+F/ | (A/G/) F/ (C/F/) G/ | F/ F2 c/ | (c/A/) F/ G  A/ | G3/2-G c/ |
+w: The  hol -  ly and_   the  i- vy,  When they_ are both full grown,_  Of
+%
+c A/ A/ G/ A/ | (B/A/) B/ G B/ | (A/G/) F/ (G/F/) E/ |
+w: all the trees that are in_ the wood, The hol_ ly bears_ the
+%
+F3/2 || "Chorus" F G/ | (A/G/) F/ (C/F/) G/ | (F3/2 F/) c/ c/ |
+w: crown. Oh, the ris_ ing of_ the sun,_ And the
+%
+(c/A/) F/ G A/ | (G3/2 G) c/ | c A/ (A/G/) A/ |
+w: run - ning of the deer,_ The play- ing of_ the
+%
+B/ A/ B/ (G/A/) B/ | A/ G/ F/ (G/F/) E/ | F3/2-F |]
+w: mer- ry or- gan,_ Sweet sing- ing all in_ the choir._
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%text This is the version that we sing.
+%
+%%vskip 0.8cm
+%
+W: 1. The holly and the ivy,
+W:    When they are both full grown.
+W:    Of all the trees that are in the wood
+W:    The holly bears the crown.
+W:
+W:    CHORUS
+W:    Oh, the rising of the sun,
+W:    And the running of the deer,
+W:    The playing of the merry organ,
+W:    Sweet singing all in the choir.
+W:
+W: 2. The holly bears a blossom,
+W:    As white as any milk,
+W:    And Mary bore sweet Jesus Christ,
+W:    All wrapp\'ed up in silk.
+W:
+W: 3. The holly bears a berry,
+W:    As red as any blood,
+W:    And Mary bore sweet Jesus Christ,
+W:    To do poor sinners good.
+W:
+W: 4. The holly bears a prickle,
+W:    As sharp as any thorn,
+W:    And Mary bore sweet Jesus Christ,
+W:    On Christmas Day in the morn.
+W:
+W: 5. The holly bears a bark,
+W:    As bitter as any gall,
+W:    And Mary bore sweet Jesus Christ,
+W:    For to redeem us all.
+W:
+W:    We tend to leave off last verse
+W:
+W: 6. The holly and the ivy,
+W:    When they are both full grown.
+W:    Of all the trees are in the wood
+W:    The holly bears the crown.

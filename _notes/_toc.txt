@@ -1,0 +1,339 @@
+%%textfont Helvetica 26
+%%center Christmas Carols
+
+%%footer	"$T	$P	$D"
+
+%%newpage
+
+
+%%textfont Helvetica 12
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% 
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Arise and Hail the Joyful Day
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 2
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% The Boys Carol
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 4
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Chariots
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 6
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Chanukah / Solstice
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 8
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Ding Dong Bell
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 8
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Dona Nobis Pacem
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 9
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Down In Yon Forest
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 10
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% The Friendly Beasts
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 12
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Good King Wenceslaus
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 13
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Gloucestershire Wassail
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 14
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Gower Wassail
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 16
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% The Holly and the Ivy (Maud Karpeles/Pat Shqw)
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 19
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% The Holly and the Ivy (Cecil Sharp/Chipping Campden)
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 18
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% The Homeless Wassail
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 20
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% In Praise of Christmas
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 22
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% In the Bleak Mid-Winter
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 24
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Kentucky Wassail
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 26
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Orientus Partibus
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 27
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Please to See the King
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 28
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Rolling Downward
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 30
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Sherburne C. M.
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 32
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Somerset Wassail
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 34
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% The Wren Song
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 36
+%%endtext
+
+%%multicol start
+%%leftmargin 2cm
+%%rightmargin 5cm
+%%begintext
+%% Wintertime
+%%endtext
+%%multicol new
+%%leftmargin 19cm
+%%rightmargin 2cm
+%%begintext
+%% 38
+%%endtext
+
+%%leftmargin 2cm
+%%rightmargin 2cm
+%%multicol end
+

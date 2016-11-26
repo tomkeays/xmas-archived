@@ -1,0 +1,32 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T: Dona Nobis Pacem
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 8            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:3/4
+L:1/4
+Q:90
+K:F
+%
+"I"
+(F/C/) A2|(G/C/) B2|(A G F)|F E2|
+w: Do_ na no_ bis pa___ cem.
+(d c/B/) (A/G/)|(c>B) A|(A/G/ F E)|F3||
+w: Do___ na no_ bis pa___ cem.
+%
+"II"
+c3|c3|(c B) A|A G2|
+w: Do- na no_ bis pa- cem.
+d d2|c c2|(c/B/ (A) G)|F3||
+w: Do- na no- bis pa___ cem.
+%
+"II"
+F3|E3|(F>G) (A/B/)|c C2|
+w: Do- na no- bis pa__ cem.
+B B2|A A2|(E/G/ c C)|F3||
+w: Do- na no- bis pa___ cem.

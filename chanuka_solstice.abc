@@ -1,0 +1,27 @@
+%%footer	"$T	$P	December 19, 2007"
+
+X:1
+T:Chanukah / Solstice
+C:Linda Hischhorn
+C:A round for four voices
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:4/4
+L:1/4
+K:Db %Transposed from Eb
+%
+"I"B, C D E | "II"F G F C | "III"D E A, C | "IV"B,4 |
+w: Tur- ning tur- ing spir- its yearn- ing, reach- ing for the light;
+%
+B, C D E | F G F C | D E A, C | B,4 |
+w: Col- ors go- ing sha- dows grow- ing, dar- ken- ing the night;
+%
+d c B A | F4 | B A D E | F4 |
+w: An- cient sto- ry told, re- newed with the cold;
+%
+D E F G | A4 | (B/A/) A A (B/A/) | A4 |]
+w: Mys- te- ry of light, burnt_ in- to the_ night.

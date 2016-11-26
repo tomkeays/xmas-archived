@@ -1,0 +1,73 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Wren Song, The
+C:traditional Irish
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:6/8
+L:1/8
+K:F %Transposed from G
+%
+C | F2 F F2 F | F F F F2 F |
+w: The wren, the wren, the king of all birds, Saint
+%
+G2 F E2 F | G G A B2 B | c c c B B B |
+w: Ste- phen's Day was caught in the furze; Al- though he was lit- tle, his
+%
+A A A G2 G | F2 E D2 E | F F F F2 ||
+w: hon- or was great; Jump up me lads, and give us a treat!
+%
+"Chorus" C | F2 F G2 E | F3 z2 C | F2 F G2 E | F3 z3 |
+w: Hur- rah me boys, hur- rah! Hur- rah me boys, hur- rah!
+%
+C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |
+w: Knock at the knock- er, And ring at the bell,
+%
+C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |
+w: What will you give us for sing- ing so well?
+%
+c3 A2 B | c3 z3 | c3 A2 B | G3 z3 |
+w: Sing- ing so well, Sing- ing so well,
+%
+C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |]
+w: Give us a cop- per for sing- ing so well.
+%
+%%newpage
+%
+W: 1. The wren, the wren, the king of all birds,
+W:    Saint Stephen's Day was caught in the furze,
+W:    Although he was little, his honor was great,
+W:    Jump up, me lads, and give us a treat!
+W:
+W:    CHORUS
+W:    Hurrah, me boys, hurrah!
+W:    Hurrah, me boys, hurrah!
+W:    Knock at the knocker and ring at the bell,
+W:    What will you give us for singing so well?
+W:    Singing so well, singing so well,
+W:    Give us a copper for singing so well.
+W:
+W: 2. We followed the wren three miles or more,
+W:    Three miles or more, three miles or more,
+W:    Through hedges and ditches and heaps of snow,
+W:    At six o'clock in the morning.
+W:
+W: 3. Rolley, Rolley, where's your nest?
+W:    It's in the bush that I love best,
+W:    It's in the bush, the holly tree,
+W:    Where all the boys do follow me.
+W:
+W: 4. As I went out to hunt and all,
+W:    I met a wren upon the wall,
+W:    Up with me wattle and gave him a fall,
+W:    And brought him here to show you all.
+W:
+W: 5. I have a little box under me arm,
+W:    A tuppence or penny'll do it no harm,
+W:    For we are the boys that came your way,
+W:    To bring in the wren on Saint Stephen's Day!

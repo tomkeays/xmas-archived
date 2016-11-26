@@ -1,0 +1,175 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Hunting the Wren
+C:
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 4            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:6/8
+L:1/8
+Q:400
+K:G
+%
+d d d d3 | B  G G  G z2 | 
+w: "What- 'll we do?" says Ris- ky Rob.
+%
+e e e e3 | c (3AAA A z2 |
+w: "What- 'll we do?" says Ro- bin to Bob.
+%
+d d d d3 | B (3GGG c z2 |
+w: "What- 'll we do?" says Jack-all-a- lone.
+%
+c c c B3 | G  A A  G z2 |]
+w: "What- 'll we do?" says ev- 'ry- one. 
+%
+%%vskip 0.8cm
+%
+W: "What'll we do?" says Risky Rob.
+W: "What'll we do?" says Robin to Bob.
+W: "What'll we do?" says Jack-all-alone.
+W: "What'll we do?" says everyone. 
+W: 
+W: "We'll hunt the wren." says Risky Rob.
+W: "We'll hunt the wren." says Robin to Bob.
+W: "We'll hunt the wren." says Jack-all-alone.
+W: "We'll hunt the wren." says everyone.
+W: 
+W: "How'll we shoot her?" says Risky Rob.
+W: "How'll we shoot her?" says Robin to Bob.
+W: "How'll we shoot her?" says Jack-all-alone.
+W: "How'll we shoot her?" says everyone.
+W: 
+W: "Sticks and stones," says Risky Rob.
+W: "Bows and arrows," says Robin to Bob.
+W: "Big guns and cannons," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carry her?" says Risky Rob.
+W: "How'll we carry her?" says Robin to Bob.
+W: "How'll we carry her?" says Jack-all-alone.
+W: "How'll we carry her?" says everyone.
+W: 
+W: "Four strong men's shoulders," says Risky Rob.
+W: "Horse and wagon," says Robin to Bob.
+W: "A big eighteen-wheeler," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we cook her?" says Risky Rob.
+W: "How'll we cook her?" says Robin to Bob.
+W: "How'll we cook her?" says Jack-all-alone.
+W: "How'll we cook her?" says everyone.
+W: 
+W: "Pots and pans," says Risky Rob.
+W: "Bloody great cauldrons," says Robin to Bob.
+W: "A microwave oven," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carve her?" says Risky Rob.
+W: "How'll we carve her?" says Robin to Bob.
+W: "How'll we carve her?" says Jack-all-alone.
+W: "How'll we carve her?" says everyone.
+W: 
+W: "Knives and forks," says Risky Rob.
+W: "Hatchets and cleavers," says Robin to Bob.
+W: "Gas-driven chainsaws," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "Who'll come to dinner?" says Risky Rob.
+W: "Who'll come to dinner?" says Robin to Bob.
+W: "Who'll come to dinner?" says Jack-all-alone.
+W: "Who'll come to dinner?" says everyone.
+W: 
+W: "The King and the Queen," says Risky Rob.
+W: "The House and the Senate," says Robin to Bob.
+W: "All of New England," says Jack-all-alone.
+W: "Invite the whole world," says everyone. 
+W: 
+W: "Eyes to the blind," says Risky Rob.
+W: "Legs to the lame" says Robin to Bob.
+W: "Ribs to the poor" says Jack-all-alone. 
+W: "Bones to the dogs" says everyone. 
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%It was believed that the wren's song betrayed St. Stephen,
+%%hiding from pursuit, to martyrdom. Thus on St. Stephen's
+%%Day, December 26, a wren was traditionally killed, and a
+%%group of boys would carry it in procession from house to
+%%house. Hunting the Wren is our reworking of the wrenning
+%%song found in many parts of Britain (and in America, where
+%%it survives as Billy Barlow). [Notes from Nowell Sing We
+%%Clear.]
+%%endtext
+
+%%newpage
+
+X:2
+T:Hunting the Wren
+S:"Manx Ballads & Music," (1896) edited by A. W. Moore, p.64
+Z:http://www.isle-of-man.com/manxnotebook/fulltext/mb1896/index.htm
+Z:http://www.isle-of-man.com/manxnotebook/fulltext/mb1896/p064.htm
+M:none
+K:none
+%
+%%textfont Times-Italic 14
+%%begintext fill
+%%"Manx Ballads & Music," (1896) edited by A. W. Moore, has these translated
+%%verses which may have formed the basis for Barrand and Roberts' version.
+%%endtext
+%%vskip 0.8cm
+%
+%%textfont Times-Roman 16
+%%begintext obeylines
+%%We'll away to the wood, says Robin to Bobbin; 
+%%We'll away to the wood, says Richard to Robin. 
+%%We'll away to the wood, says Jack of the Land; 
+%%We'll away to the wood, says everyone. 
+%%
+%%What shall we do there? says Robin to Bobbin; 
+%%Repeat these lines as above. 
+%%
+%%We will hunt the wren, says Robin to Bobbin. [& etc.] 
+%%Where is he? where is he? says Robin to Bobbin. [& etc.] 
+%%In yonder green bush, says Robin to Bobbin. [& etc.] 
+%%I see him, I see him, says Robin to Bobbin. [& etc.] 
+%%How shall we get him down, says Robin to Bobbin. [& etc.] 
+%%With sticks and stones, says Robin to Bobbin. [& etc.] 
+%%He is dead, he is dead, says Robin to Bobbin. [& etc.], 
+%%How shall we get him home? says Robin to Bobbin. [& etc.] 
+%%We'll hire a cart, says Robin to Bobbin. [& etc.] 
+%%Whose cart shall we hire? says Robin to Bobbin. [& etc.] 
+%%Johnny Bill Fell's, says Robin to Bobbin. [& etc.] 
+%%Who will stand driver? says Robin to Bobbin. [& etc.] 
+%%Filley the Tweet, says Robin to Bobbin. [& etc.] 
+%%He's home, he's home, says Robin to Bobbin. [& etc.] 
+%%How shall we get him boil'd? says Robin to Bobbin. [& etc.] 
+%%In the brewery pan, says Robin to Bobbin. [& etc.] 
+%%How shall we get him in? says Robin to Bobbin. [& etc.] 
+%%With iron bars and a rope, says Robin to Bobbin 
+%%He is in, he is in, says Robin to Bobbin. [& etc.] 
+%%He is boil'd, he is boil'd, says Robin to Bobbin. [& etc.] 
+%%How shall we get him out? says Robin to Bobbin. [& etc.] 
+%%With a long pitchfork, says Robin to Bobbin. [& etc.] 
+%%He is out, he is out, says Robin to Bobbin. [& etc.] 
+%%Who's to dine at the dinner? says Robin to Bobbin. [& etc.] 
+%%The King and the Queen, says Robin to Bobbin. [& etc.] 
+%%How shall we get him eat? says Robin to Bobbin. [& etc.] 
+%%With knives and forks, says Robin to Bobbin. [& etc.] 
+%%He is eat, he is eat, says Robin to Bobbin. [& etc.] 
+%%
+%%The eyes for the blind, says Robin to Bobbin. 
+%%The legs for the lame, says Richard to Robin; 
+%%The pluck for the poor, says Jack of the land; 
+%%The bones for the dogs, says every one. 
+%%
+%%The wren, the wren, the king of all birds, 
+%%We have caught, St. Stephen's Day, in the furze; 
+%%Although he is little, his family's great, 
+%%I pray you, good dame, do give us a treat. 
+%%endtext
+

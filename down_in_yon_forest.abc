@@ -1,0 +1,97 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Down In Yon Forest
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+M:6/8
+L:1/8
+K:G#min %Transposed from Amin
+%
+[V:1]  G   A   G   F   G  A  | B   A   G   A2  D  |
+[V:2]  B,   C   B,   A,  B,  C  | D   C   B,   C2  D  |
+w: 1.~Down in yon for- est a grow- ing so tall, There
+w: 2.~Down in yon for- est there grows a sharp thorn, As
+w: 3.~Down in yon for- est there stands a stout oak, For
+w: 4.~Down in yon for- est as thick as you please, We'll
+w: 5.~Down in yon for- est the ash we shall dress, And
+w: 6.~Down in yon for- est there grow great and small, E-
+[V:3]  G,  G,  G,  D,  D, D, | G,  G,  G,  D,2 D, |
+[V:4]  G,, G,, G,, D,  D, D, | G,, G,, G,, D,2 D, |
+%
+[V:1] G   A   G   F   G  A  | B   A   G   A2  A  |
+[V:2] B,   C   B,   A,  B,  C  | D   C   E   D2  D  |
+w: pros- per in win- ter as so shall we all, The
+w: bit- ter as a- ny word spo- ken in scorn, But
+w: crea- tures a shel- ter, for gods a green cloak, For
+w: dance in the or- chard of fine ap- ple trees, Whose
+w: bind in- to bun- dles to burn and to bless, To
+w: nough sil- ver bir- ches as tor- ches for all, To
+[V:3] G,  G,  G,  D,  D, D, | G,  G,  G,  D,2 D, |
+[V:4] G,, G,, G,, D,  D, D, | G,, G,, G,, D,2 D, |
+%
+[V:1] B A B c B c | d B G =G2 D |
+[V:2] D C D E D E | F D B, A,2 D |
+w: bril- liant green i- vy and hol- ly so bright, So
+w: scorn have we none nor the will for to fight, So
+w: us good- ly fire- wood to make our hearth bright, So
+w: health we will drink 'til the grey mor- ning light, So
+w: car- ry good ti- dings and glad- den our sight, So
+w: light our way home- ward when time it is right, So
+[V:3] G,  G,  G,  F,  F,  F,  | B,  G, E, D,2 D, |
+[V:4] G,, G,, G,, F,, F,, F,, | B,, B,, E, D,2 D, |
+%
+[V:1] G   A   G   F   G  A  | B   A   B   G3   |]
+[V:2] B,   C   B,   A,  B,  C  | D   C   D   B,3   |]
+w: let us be mer- ry this long win- ter's night.
+[V:3] G,  G,  G,  D,  D, D, | D,  D,  D,  D,3  |]
+[V:4] G,, G,, G,, D,  D, D, | D,  D,  D,  G,,3 |]
+%
+%%vskip 0.8cm
+%
+W: (Sopranos only)
+W: 1. Down in yon forest a-growing so tall
+W:    There prosper in winter as so shall we all
+W:    The brilliant green ivy and holly so bright
+W:    So let us be merry this long winter's night
+W:
+W: (Sopranos and Altos)
+W: 2. Down in yon forest there grows a sharp thorn
+W:    As bitter as any word spoken in scorn
+W:    But scorn have we none nor the will for to fight
+W:    So let us be merry this long winter's night
+W:
+W: (All parts)
+W: 3. Down in yon forest there stands a stout oak
+W:    For creatures a shelter, for gods a green cloak
+W:    For us goodly firewood to make our hearth bright
+W:    So let us be merry this long winter's night
+W:
+W: (All parts)
+W: 4. Down in yon forest as thick as you please
+W:    We'll dance in the orchard of fine apple trees
+W:    Whose health we will drink 'til the grey morning light
+W:    So let us be merry this long winter's night
+W:
+W: (All in unison; Soprano part)
+W: 5. Down in yon forest the ash we shall dress
+W:    And bind into bundles to burn and to bless
+W:    To carry good tidings and gladden our sight
+W:    So let us be merry this long winter's night
+W:
+W: (All parts)
+W: 6. Down in yon forest there grow great and small
+W:    Enough silver birches as torches for all
+W:    To light our way homeward when time it is right
+W:    So let us be merry this long winter's night

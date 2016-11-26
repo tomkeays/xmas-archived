@@ -1,0 +1,85 @@
+%%footer	"$T	$P	December 19, 2007"
+
+X:1
+T:O Little One Sweet
+C:Old German melody
+C:harmonized by J.S. Bach
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+K:Bb
+%
+[V:1]  B       |  B3/ A/    B | c2         A | B A  G | F2 d | c2     c      |
+[V:2]  D       | (D/=E/) ^F G | (G/=F/ =E) F | F>D =E | C2 F | (F>_E) (D/A/) |
+w: 1.\240\240O lit_ tle one sweet,__ O lit- tle one mild, Thy fa_ ther's_
+w: 2.\240\240O lit_ tle one sweet,__ O lit- tle one mild, With joy_ thou_
+w: 3.\240\240O lit_ tle one sweet,__ O lit- tle one mild, In thee_ love's_
+w: 4.\240\240O lit_ tle one sweet,__ O lit- tle one mild, Help us_ to_
+[V:3]  B,      | B, D  D         | C2           C  | D>D   (G,/C/) | A,2 B,  | (B, A,)      D   |
+[V:4] (B,/A,/) | G, D, (G,/=F,/) | (=E,/D,/ C,) F, | D, B,, C,     | F,2 B,, | (F,/=E,/ F,) ^F, |
+%
+[V:1] B  B  c | (F G) A | B2 d | e2       e | c2  c     |
+[V:2] (A>G) F | F2    E | D2 F | (E/F/ G) G | F2 (F/G/) |
+w: pur- pose thou hast ful- filled; Thou cam'st__ from heav'n to_
+w: hast_ the whole world filled; Thou cam__ est here from_
+w: beau- ties are all dis- tilled; Then light__ in us thy_
+w: do_ as thou hast willed. Lo, all__ we have be_ 
+[V:3] D            E>E  |  D2      C | B,2   B,      | (B,>C)  B, | (B, A,/B,/) C |
+[V:4] ((G,/^F,/) G,) A, | (B, E,) F, | B,,2 (B,/A,/) | (G, E,) C, |  F,2 (A,/G,/) |
+%
+[V:1] d2        d      | B2 B | c2        c | A2        A | B2           B |
+[V:2] (_A B/A/) (G/F/) | G2 G | (G =E/F/) G | (G F/=E/) F | (B,/C/D/_E/) F |
+w: mor__ tal_ ken, E- qual__ to be__ with us___ poor
+w: heav'n's__ do_ main, To bring__ men com__ fort in___ their
+w: love's__ bright_ flame, That we__ may give__ thee back___ the
+w: longs__ to_ thee! Ah, keep__ us in__ our feal____
+[V:3] B,2     _A, | G,2     D    | C2       C  | C2   C        | F,2      B, |
+[V:4] (F, D,) B,, | E,2 (G,/E,/) | (=E, C,) E, | F,2 (F,/_E,/) | (D, B,,) D, |
+%
+[V:1] G2    c | F      G  A | B2 d | c>B      A | B2 |]
+[V:2] (F E) E | (D/C/) B, C | F2 F | (G/F/) E>E | D2 |]
+w: men,_ O lit_ tle one sweet, O lit_ tle one mild.
+w: pain,_ O lit_ tle one sweet, O lit_ tle one mild.
+w: same,_ O lit_ tle one sweet, O lit_ tle one mild.
+w: ty!_ O lit_ tle one sweet, O lit_ tle one mild.
+[V:3] B,2 A, | (B,/A,/) G,       F,      | F,2       B,       | (B, E/D/) C  | B,2  |]
+[V:4] E,2 C, | D,      (E,/D,/) (E,/C,/) | D, (E,/D,/C,/B,,/) | E,  C,    F, | B,,2 |]
+w: *** *** ** O___ lit- tle one mild.
+%
+%%vskip 0.8cm
+%
+W: 1. O little one sweet, O little one mild,
+W:    Thy Father's purpose thou hast fulfilled;
+W:    Thou cam'st from heav'n to mortal ken,
+W:    Equal to be with us poor men,
+W:    O little one sweet, O little one mild.
+W:
+W: 2. O little one sweet, O little one mild,
+W:    With joy thou hast the whole world filled;
+W:    Thou camest here from heav'n's domain,
+W:    To bring men comfort in their pain,
+W:    O little one sweet, O little one mild.
+W:
+W: 3. O little one sweet, O little one mild,
+W:    In thee love's beauties are all distilled,
+W:    Then light in us thy love's bright flame,
+W:    That we may give thee back the same,
+W:    O little one sweet, O little one mild.
+W:
+W: 4. O little one sweet, O little one mild,
+W:    Help us to do as thou hast willed,
+W:    Lo, all we have belongs to thee!
+W:    Ah, keep us in our fealty!
+W:    O little one sweet, O little one mild.
+

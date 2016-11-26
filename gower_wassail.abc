@@ -1,0 +1,59 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Gower Wassail
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:9/8
+L:1/8
+K:B %Transposed from C
+%
+(D2 G) | G3 G3 (A2 G) | F3 F3 (G2 A) | B3 B3 c3 | A6 (B2 A) |
+w: A - was- sail a - was- sail, through - out all this town. Our_
+%
+G3 G3 A3 | (BcB) A3 G3 | F3 D3 D3 | D6 (D2 G) | G3 G3 (A2 G) |
+w: cup it is white__ and our ale it is brown. Our_ was- sail is_
+%
+F6 G2 A | (2(B A) B3 c3 | A6 (B2 A) | G3 G3 A3 |
+w: made of the good - ale and true. Some_ nut- meg and
+%
+(BcB) A3 G2 G | F3 D3 D3 | (D3 C3) || "Chorus" B,2 C | D3 D2 F E2 D |
+w: gin -* ger, it's the best we can brew._ Fol the dol, fol the dol- de-
+%
+C3 C2 E D2 C | B,3 B,2 D C2 B, | A,6 G,2 A, |
+w: dol, Fol the dol- de- dol, fol the dol- de- dee, Fol the
+%
+(B,CB,) A,3 B,2 C | E3 D3 C3 | D3 G3 F3 | G6 |]
+w: der -* o, fol the da- dee, Sing tu- re- lye- do!
+%
+%%newpage
+%
+W: 1. A-wassail, a-wassail, throughout all this town.
+W:    Our cup it is white and our ale it is brown.
+W:    Our wassail is made of the good ale and true,
+W:    Some nutmeg and ginger, it's the best we can brew.
+W:
+W:    CHORUS
+W:    Fol the dol, fol the dol-de-dol,
+W:    Fol the dol-de-do, fol the dol-de-dee,
+W:    Fol the der-o, fol the da-dee,
+W:    Sing tu-re-lye-do!	
+W:
+W: 2. Our wassail is made of the elderberry bough,
+W:    And so, my good neighbor, we'll drink unto thou.
+W:    Besides all on earth, you'll have apples in store,
+W:    Pray let us come in for it's cold by the door.
+W:
+W: 3. We hope that your apple trees prosper and bear
+W:    So that we may have cider when we call next year.
+W:    And where you've one barrel, we hope you'll have ten
+W:    So that we may have cider when we call again.
+W:
+W: 4. We know by the moon that we are not too soon,
+W:    And we know by the sky that we are not too high,
+W:    We know by the stars that we are not too far,
+W:    And we know by the ground that we are within sound.

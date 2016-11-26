@@ -1,0 +1,80 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Lo, How a Rose E'er Blooming
+O:Cologne, 1599
+C:Setting by Michael Praetorius, 1609
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+M:C
+L:1/4
+K:F
+%
+[V:1] c2  | c  c d c | c2 A2 | B2 A G- |  G    F2 E | 
+[V:2] A2  | A  F F F | E2 D2 | D2 C C  | (D>B, C) C | 
+w: 1.~Lo, how a Rose e'er bloom- ing, From ten- der * stem * hath
+w: 2.~I- sa- iah had for- told it, The Rose I *  have * in
+w: 3.~This Flow'r, whose fra- grance ten- der, With sweet- ness * fills * the
+[V:3] c'2 | c' a b a | g2 f2 | f2 a c' | (b   a2) g | 
+[V:4] f2  | f f b f  | c2 d2 | B2 f e  |  d2     c2 | 
+%
+[V:1] HF2 c2  | c  c d c | c2 A2 | B2 A G- | 
+[V:2] HC2 A2  | A  F F F | E2 D2 | D2 C C  | 
+w: sprung, Of Jes- se's lin- eage com- ing As men of
+w: mind; With Ma- ry we be- hold it, The vir- gin
+w: air, Dis- pels with glo- rious splen- dor The dark- ness
+[V:3] Ha2 c'2 | c' a b a | g2 f2 | f2 a c' | 
+[V:4] HF2 f2  | f  f b f | c2 d2 | B2 f e  | 
+%
+[V:1]  G F2    E | F2 z A  | G E F  D  |  C2      z c | 
+[V:2] (D>A, C) C | C2 z F  | D C C =B, | (C/D/ E) z E | 
+w: * old * have sung! It came a Flow'r- et bright__ A-
+w: * moth- * er kind. To show God's love a- right__ She
+w: * ev- * 'ry- where. True Man, yet ver- y God,__ From
+[V:3] (b a2)   g | a2 z c' | b a a  g  |  g2      z g | 
+[V:4]  d2     c2 | F2 z f  | g a f  g  |  c2      z c | 
+%
+[V:1] c c d c | c2  A2 | B2 A G- |  G   F2 E | F4 |]
+[V:2] G F F F | E2  D2 | D2 F D  | (E F G) C | C4 |]
+w: mid the cold of win- ter, When half spent_ was * the night.
+w: bore to us a Sav- ior When half spent_ was * the night.
+w: sin and death He saves us And ligh- tens_ ev- * 'ry load.
+[V:3] g a b a | g2 ^f2 | g2 c' b |  a2  g2   | a4 |]
+[V:4] e f B f | c2  d2 | G2 A  B |  c2  c2   | F4 |]
+%
+%%vskip 0.8cm
+%
+W: 1. Lo, how a Rose e'er blooming, 
+W:    From tender stem hath sprung, 
+W:    Of Jesse's lineage coming 
+W:    As men of old have sung! 
+W:    It came a Flow'ret bright 
+W:    Amid the cold of winter, 
+W:    When half spent was the night.
+W: 
+W: 2. Isaiah had fortold it, 
+W:    The Rose I have in mind; 
+W:    With Mary we behold it, 
+W:    The virgin mother kind. 
+W:    To show God's love aright 
+W:    She bore to us a Savior 
+W:    When half spent was the night.
+W: 
+W: 3. This Flow'r, whose fragrance tender, 
+W:    With sweetness fills the air, 
+W:    Dispels with glorious splendor 
+W:    The darkness ev'rywhere. 
+W:    True Man, yet very God, 
+W:    From sin and death He saves us 
+W:    And lightens ev'ry load.

@@ -1,0 +1,89 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:End of Summer
+C:Lyrics by Stanley Kunitz
+C:Music by T.S. Baxter
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [1|2]
+U: H = fermata
+%
+M:C
+L:1/4
+K:Emin
+Q:100
+P:A
+%
+[V:1] z2|z E B>A|D G F>C|E3 z|z E C D|
+w: An ag- it- a- tion of the air, A per- tur-
+[V:2] z2|z E E>E|E E E>E|E3 z|z E B A|
+%
+[V:1] E>D E>F|E3 z|z E G B|D3 F|
+w: ba- tion of the light, Ad- mon- ished me the
+[V:2] D>G F>C|E3 z|z E C D|E3 D|
+%
+[V:1] A2 C2|E3 E|(3 E2 E2 E2|E2 E2|E3 z|]
+w: un- loved year, Would turn on its hinge that night.
+[V:2] E2 F2|E3 E|(3 G2 B2 D2|F2 A2|E3 z|]
+%
+P:B
+[V:1] z2 z A|A2 B/A/ c/A/|A G  A2|z A  A>A|B/B/ A/F/ E2|
+w: I stood in the dis- en- chan- ted field, A- mid the stub- ble and the stones,
+[V:2] z2 z A|G2 F/E/ E/F/|G G ^F2|z A =F>F|F/F/ F/F/ E2|
+%
+[V:1] z z/E/ E ^F/^G/|F/^G/ F/G/ G>A| A2 B/A/ c/A/|H A3|]
+w: A- mazed, while a small worm lisp'd to me, The song of my mar- row bones.
+[V:2] z z/E/ C ^F/^G/|F/E/  D/C/ C>A|=G2 F/E/ E/F/|H G3|]
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Bold 14
+%%begintext obeylines
+%% C. [Spoken]
+%%    Blue poured into summer blue,
+%%    A hawk broke from his cloudless tower,
+%%    The roof of the silo blazed, and I knew
+%%    That part of my life was over.
+%%endtext
+%
+%%newpage
+%
+P:D
+[V:1] E|B A2 D|G2 F2|C C E2|z E C D|
+w: Al- read- y the iron door of the north, Clanges op- en
+[V:2] E|E E2 E|E2 E2|E E E2|z E B A|
+%
+[V:1] z2 E2|z2 D2|z2 E2|z E G>B|
+w: birds, leaves, snows, Or- der their
+[V:2] z2 D2|z2 G2|z2 F2|z E C>D|
+%
+[V:1] D F A C|E3 E/E/|E E E2|E2|]
+w: pop- ul- a- tions forth, And a cru- el wind blows.
+[V:2] E D E F|E3 E/G/|B D F2|A2|]
+%
+%%sep 0.8cm 0.8cm
+%
+W: A. An agitation of the air,
+W: A pertubation of the light
+W: Admonished me the unloved year
+W: Would turn on its hinge that night.
+W:
+W: B. I stood in the disenchanted field
+W: Amid the stubble and the stones
+W: Amazed, while a small worm lisped to me
+W: The song of marrow bones.
+W:
+W: C. [Spoken] Blue poured into summer blue,
+W: A hawk broke from his cloudless tower,
+W: The roof of the silo blazed, and I knew
+W: That part of my life was over.
+W:
+W: D. Already the iron door of the north
+W: Clangs open: birds, leaves, snows
+W: Order their populations forth,
+W: And a cruel wind blows.

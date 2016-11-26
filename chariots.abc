@@ -1,0 +1,93 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Chariots
+C:John Kirkpatrick, 1995
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:6/4
+L:1/4
+Q:250
+K:C
+%
+C | C G, C F E D | C E G A G>F | G<c E<G G |
+w: O Shep- herd O shep- herd come leave off your pi- ping, Come lis- ten come learn come
+%
+F>E F D2 G | C G, C F E D | C E G A G>G | G c E G G C |
+w: hear what I say. For now is the time that has long been fore- spo- ken, For now is the time there'll be
+%
+E E>D C2 G | A F A c2 A | G c E E D C | A F A c B A |
+w: new tunes to play. For soon there comes one who brings a new mu- sic Of sweet- ness and clar- i- ty
+%
+G F E D2 C | C G, C E2 E | G E G A G F | G c E G G C |
+w: none can com- pare. So o- pen your heart for hea- ven- ly har- mo- ny Here on this hill will be
+%
+E E>D C2 || "Chorus" G | G E C G E G | A3 G2 G | G E C G E C |
+w: fill- ing the air! With char- iots of cher- u- bim chant- ing And ser- a- phim sing- ing ho
+%
+F3 E2 G/G/ | G E C G G G | [FA] [FB] [Fc] [E3G3] | [F2A2] [EG] [D2F2] [CE] | [F2A2] [EG] [EG] G G |
+w: san- na And a choir of arch- an- gels a-ca- rol- ing come: Hal- le- lu- jah Hal- le- lu. All the
+%
+G E C C E G | A2 B c2 A | G c C E2 D | C4 |]
+w: an- gels a-trum- pet- ing glo_ ry In praise of the Prince of Peace
+%
+%%newpage
+%
+W: 1. O Shepherd O shepherd come leave off your piping
+W:    Come listen come learn come hear what I say
+W:    For now is the time that has long been forespoken
+W:    For now is the time there'll be new tunes to play
+W:    For soon there comes one who brings a new music
+W:    Of sweetness and clarity none can compare
+W:    So open your heart for heavenly harmony
+W:    Here on this hill will be filling the air
+W:
+W: CHORUS
+W:    With chariots of cherubim chanting
+W:    And seraphim singing hosanna
+W:    And a choir of archangels a-caroling come
+W:    Hallelujah Hallelu
+W:    All the angels a-trumpeting glory
+W:    In praise of the Prince of Peace
+W:
+W: 3. Bring your sheep bleating to this happy meeting
+W:    To hear how the lamb with the lion shall lie
+W:    It's mooing and braying you'll hear the song saying
+W:    The humble and lowly will be the most high
+W:    Let the horn of the herdsman be heard up in heaven
+W:    For the gates are flung open for all who come near
+W:    And the simplest of souls shall sing to infinity
+W:    Lift up and listen and you shall hear
+W:
+W: 4. The warmonger's charger will thunder for freedom
+W:    The gun-maker's furnace will dwindle and die
+W:    And muskets and sabers and swords shall be sundered
+W:    Surrendered to the sound that is sweeping the sky
+W:    And the shoes of the mighty shall dance to new measures
+W:    And the jackboots of generals shall jangle no more
+W:    As sister and brother and father and mother
+W:    Agree with each other the end to all war
+W:
+W: 5. As a candle can conquer the demons of darkness
+W:    As a flame can keep frost from the deepest of cold
+W:    So a song can give hope in the depths of all danger
+W:    And a line of pure melody soar in your soul
+W:    So sing your songs well and sing your songs sweetly
+W:    And swear that your singing it never shall cease
+W:    So the clatter of battle and drums of disaster
+W:    Be drowned in the sound of the pipes of peace
+W:
+W: We do verses 1, 3, 4, and 5.
+W:
+W: 2. See on yon stable the starlight is shimmering
+W:    And glimmering and glistening and glowing with glee
+W:    In Bethlehem blest this baby of bliss will be
+W:    Born here before you as bold as can be
+W:    And you'll be the first to hear the new symphony
+W:    Songs full of gladness  and glory and light
+W:    So learn your tunes well and play your pipes proudly
+W:    For the Prince of Paradise plays here tonight

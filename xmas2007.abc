@@ -1,0 +1,1967 @@
+%%footer	"$T	$P	December 19, 2007"
+
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Roman 9  % for chords
+
+X:1
+T:Arise and Hail the Joyful Day
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=treble name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [1 | 2 | 3 | 4]
+%%barsperstaff 6            % change number of measures per staff
+U: H = fermata
+%
+M:C|
+L:1/4
+K:G
+%
+[V:1] G2 F G | A2 B2 | A3 A | B3 d | d2 c2 | (c>B) (A>G) |
+w: A-  rise  and hail the  joy-   ful day.   Of your Re-  deem_ er's_
+w: Be-  hold and hear what news   we  bring. To lost man- kind_ this_
+w: Then let  us  join in   choirs a-  bove.  To ce-  le-  brate_ His_
+%
+[V:2] D2 D D | C2 D2 | E2 F2 | G3 F | D2 E2 | E2 C2 |
+w: A- rise   and hail the  joy-   ful day.   Of your Re-  deem- er's
+w: Be-  hold and hear what news   we  bring. To lost man- kind  this
+w: Then let  us  join in   choirs a-  bove.  To ce-  le-  brate  His
+%
+[V:3] B2 A B | c2 (B G) | (A/B/c/A/ G) F | G3A | B2 G2 | (c>B) (A>G) |
+w: A-   rise and hail the_  joy____    ful day.   Of your Re-  deem_  er's_
+w: Be-  hold and hear what_ news____   we  bring. To lost man- kind_  this_
+w: Then let  us  join in_   choirs____ a-  bove.  To ce-  le-  brate_ His_
+%
+[V:4] G,,2 D, D, | F,2 G,2 | C,2 D,2 | G,,3 D, | (G,>F,) (E,>D,) | A,2 A,,2 |
+w: A-   rise and hail the  joy-   ful day.   Of your_ Re_  deem- er's
+w: Be-  hold and hear what news   we  bring. To lost_ man_ kind  this
+w: Then let  us  join in   choirs a-  bove.  To ce_   le_  brate His
+%
+[V:1] F4 |: G2 G G | G G F E | F3 z | z4 | z4 |
+w: birth; Lift  up    your voi- ces to    the   sky;
+w: day;   Sweet hal-  le-  lu-  jah let   us    sing,
+w: name,  In    sing- ing  of   His won-  drous love,
+%
+[V:2] D4 |: D2 D D | D E F G | F3 z | z4 | z2 z (G/F/) |
+w: birth; Lift  up    your voi- ces to    the   sky;  A_
+w: day;   Sweet hal-  le-  lu-  jah let   us    sing, And_
+w: name,  In    sing- ing  of   His won-  drous love, And_
+%
+[V:3] A4 |: (d c) B A | B c B/A/ G | A3 B/c/ | d d d e | d3 (d/c/) |
+w: birth; Lift_  up    your voi- ces to_   the   sky;  A_   Sav-   iour born    on  earth, A_
+w: day;   Sweet_ hal-  le-  lu-  jah let_  us    sing, And_ join   the  heav'n- ly  lay,   And_
+w: name,  In_    sing- ing  of   His won_  drous love, And_ sprea- ding forth   his fame, And_
+%
+[V:4] D,4 |: G,2 G, D, | G,, A,, B,, C, | D,4- | D,3 E,/F,/ | G, G, G, B,, |
+w: birth; Lift  up    your voi- ces to    the   sky;_  A_   Sav-   iour born    on
+w: day;   Sweet hal-  le-  lu-  jah let   us    sing,_ And_ join   the  heav'n- ly
+w: name,  In    sing- ing  of   His won-  drous love,_ And_ sprea- ding forth   his
+%
+[V:1] z2 z G | G G G G | G3 G | E E D D | D4 :|
+w: A   Sav-    iour born    on  earth, A   Sav-    iour born    on  earth.
+w: And join    the  heav'n- ly  lay,   And join    the  heav'n- ly  lay.
+w: And spread- ing  forth   his fame,  And spread- ing  forth   his fame.
+%
+[V:2] E E E D | E3 G, | B, B, D D  | C2 D D  | B,4 :|
+w: Sav-    iour born    on  earth, A   Sav-    iour born    on  earth, born    on  earth.
+w: join    the  heav'n- ly  lay,   And join    the  heav'n- ly  lay,   heav'n- ly  lay.
+w: spread- ing  forth   his fame,  And spread- ing  forth   his fame,  forth   his fame.
+%
+[V:3] B B B B | c2 (B c) | (d/e/d/c/ B) G | G2 F2 | G4 :|
+w: Sav-    iour born    on  earth, A_   Sav____    iour born    on  earth.
+w: join    the  heav'n- ly  lay,   And_ join____   the  heav'n- ly  lay.
+w: spread- ing  forth   his fame,  And_ spread____ ing  forth   his fame.
+%
+[V:4] E,3 D, | C, C, C, C, | B,,2 G,,2 | C,2 D,2 | G,,4 :|
+w: earth, A   Sav-    iour born,   A   Sav-    iour born    on earth.
+w: lay,   And join    the  heav'n, And join    the  heav'n- ly lay.
+w: fame,  And spread- ing  forth,  And spread- ing  forth   his fame.
+%
+%%vskip 0.8cm
+%
+W: 1. Arise and hail the joyful day
+W:    Of your Redeemer's birth;
+W:    Lift up your voices to the sky;
+W:    A Saviour born on earth.
+W:
+W: 2. Behold and hear what news we bring
+W:    To lost mankind this day;
+W:    Sweet hallelujah let us sing,
+W:    And join the heav'nly lay.
+W:
+W: 3. He comes, poor sinners to redeem,
+W:    Who so affronted God;
+W:    To heal their souls from death and sin,
+W:    And save them with his blood.
+W:
+W: 4. Then let us join in choirs above
+W:    To celebrate His name,
+W:    In singing of His wonderous love,
+W:    And spreading forth his fame.
+%%barsperstaff 0            % default # measures per staff
+
+X:2
+T:Boys Carol, The
+T:Personent Hodie
+C:14th Century tune (Piae Cantiones, 1582)
+C:Translation from Elizabeth Poston's Penguin Book of Christmas Carols
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+%
+M:C|
+L:1/4
+K:F %Transposed from G
+%
+[V:1] D  D  A2  | G  G  A2  | A  A  d2 |
+[V:2] D  D  A2  | G  C  D2  | D  A  D2 |
+w: Per- so- nent ho- di- e, Vo- ces pu-
+w: Let the boys' cheer- ful noise, Sing to- day
+[V:3] D, D, A,2 | G, G, A,2 | A, A, D2 |
+[V:4] D, D, A,2 | G, C, D,2 | D, A, D2 |
+%
+[V:1] =B c  A2 | G  A  c2   | G  A  F2   |  E  D  E   C   |
+[V:2]  G G  F2 | D  D  C2   | D  D  C2   | =B, C  B,  G,  |
+w: er- u- lae, Lau- dan- tes jo- cun- de, Qui no- bis est
+w:  none but joys, Praise a- loud, clear and proud, Praise to him in
+[V:3] A, A, D2 | D, D, A,2  | D, D, A,2  |  D, D, A,  A,  |
+[V:4] A, A, D2 | D, D, A,,2 | D, D, A,,2 |  D, D, A,, A,, |
+%
+[V:1] D2   D2  | D   F   G   C   | D2   D2  || E  F  G2  |
+[V:2] A,2  A,2 | E   C  =B,  C   | A,2  D2  || C  D  C2  |
+w: na- tus, Sum- mo De- o da- tus, Et de vir,
+w: cho- rus, Giv'n from hea- ven for us, Vir- gin-born,
+[V:3] D,2  D,2 | D,  D,  D,  D,  | D,2  D,2 || C, C, G,2 |
+[V:4] A,,2 D,2 | A,, A,, G,, G,, | G,,2 D,2 || C, C, C,2 |
+%
+[V:1]  G2    G2  | F G A2    |  A2     A2  |  E  F  G2  |
+[V:2]  C2    C2  | D E F2    |  F2     F2  |  C  D  E2  |
+w: vir, vir, Et de vir, vir, vir, Et de vir-
+w: born, born, Vir- gin-born, born, born, Vir- gin-born
+[V:3] (E,F,) G,2 | z2  G, A, | (A,=B,) C2  | =B, A, G,2 |
+[V:4]  C,2   C,2 | z2  D, E, | (F, G,) A,2 |  G, F, E,2 |
+w: * * Et de vir, * vir, * * *
+w: * * Vir- gin- born, * born, * * *
+%
+[V:1] F  E  D2  | E  D  E  C  | D2  D2  |]
+[V:2] D  C =B,2 | C =B, C  C  | D2  D2  |]
+w: gin- ne- o ven- tre pro- cre- a- tus.
+w: on that morn, Pro- cre- a- ted for us.
+[V:3] F, G, A,2 | G, A, G, G, | D,2 A,2 |]
+[V:4] D, E, F,2 | E, F, E, C, | D,2 D,2 |]
+%
+%%vskip 0.8cm
+%
+W: 1a. Personent hodie,
+W:     Voces puerulae,
+W:     Laudantes jocunde,
+W:     Qui nobis est natus,
+W:     Summo Deo datus,
+W:     Et de vir, vir, vir,
+W:     Et de vir, vir, vir,
+W:     Et de virginneo
+W:     Ventre procreatus.
+W:
+W: 1b. Let the boys' cheerful noise,
+W:     Sing today none but joys,
+W:     Praise aloud, clear and proud,
+W:     Praise to him in chorus,
+W:     Giv'n from heaven for us,
+W:     Virgin-born, born, born,
+W:     Virgin-born, born, born,
+W:     Virgin-born on that morn,
+W:     Procreated for us.
+W:
+W: 2.  He who rules heaven and earth
+W:     Lies in stall at his birth,
+W:     Humble beasts at his feast
+W:     See the Light eternal
+W:     Vanquish realms infernal:
+W:     Satan's done, done, done,
+W:     Satan's done, done, done,
+W:     Satan's done, God has won,
+W:     Victor he, supernal.
+W:
+W: 3.  Magi come from afar
+W:     See their sun, tiny one,
+W:     Follow far, little star,
+W:     At the crib adoring,
+W:     Man to God restoring,
+W:     Gold and myrrh, myrrh, myrrh,
+W:     Gold and myrrh, myrrh, myrrh,
+W:     Gold and myrrh offered there,
+W:     Incense for adoring.
+W:
+W: 4.  Clerk and boy, join in joy,
+W:     Sing as heaven sings for joy,
+W:     God this day here doth stay,
+W:     Pour we forth the story
+W:     Of his might and glory:
+W:     Ideo, o, o,
+W:     Ideo, o, o,
+W:     Ideo gloria
+W:     In excelsis Deo.
+W:
+
+X:3
+T:Chanukah / Solstice
+C:Linda Hischhorn
+C:A round for four voices
+%
+M:4/4
+L:1/4
+K:Db %Transposed from Eb
+%
+"I"B, C D E | "II"F G F C | "III"D E A, C | "IV"B,4 |
+w: Tur- ning tur- ing spir- its yearn- ing, reach- ing for the light;
+%
+B, C D E | F G F C | D E A, C | B,4 |
+w: Col- ors go- ing sha- dows grow- ing, dar- ken- ing the night;
+%
+d c B A | F4 | B A D E | F4 |
+w: An- cient sto- ry told, re- newed with the cold;
+%
+D E F G | A4 | (B/A/) A A (B/A/) | A4 |]
+w: Mys- te- ry of light, burnt_ in- to the_ night.
+
+X:4
+T:Chariots
+C:John Kirkpatrick, 1995
+%
+M:6/4
+L:1/4
+Q:250
+K:C
+%
+C | C G, C F E D | C E G A G>F | G<c E<G G |
+w: O Shep- herd O shep- herd come leave off your pi- ping, Come lis- ten come learn come
+%
+F>E F D2 G | C G, C F E D | C E G A G>G | G c E G G C |
+w: hear what I say. For now is the time that has long been fore- spo- ken, For now is the time there'll be
+%
+E E>D C2 G | A F A c2 A | G c E E D C | A F A c B A |
+w: new tunes to play. For soon there comes one who brings a new mu- sic Of sweet- ness and clar- i- ty
+%
+G F E D2 C | C G, C E2 E | G E G A G F | G c E G G C |
+w: none can com- pare. So o- pen your heart for hea- ven- ly har- mo- ny Here on this hill will be
+%
+E E>D C2 || "Chorus" G | G E C G E G | A3 G2 G | G E C G E C |
+w: fill- ing the air! With char- iots of cher- u- bim chant- ing And ser- a- phim sing- ing ho
+%
+F3 E2 G/G/ | G E C G G G | [FA] [FB] [Fc] [E3G3] | [F2A2] [EG] [D2F2] [CE] | [F2A2] [EG] [EG] G G |
+w: san- na And a choir of arch- an- gels a-ca- rol- ing come: Hal- le- lu- jah Hal- le- lu. All the
+%
+G E C C E G | A2 B c2 A | G c C E2 D | C4 |]
+w: an- gels a-trum- pet- ing glo_ ry In praise of the Prince of Peace
+%
+%%newpage
+%
+W: 1. O Shepherd O shepherd come leave off your piping
+W:    Come listen come learn come hear what I say
+W:    For now is the time that has long been forespoken
+W:    For now is the time there'll be new tunes to play
+W:    For soon there comes one who brings a new music
+W:    Of sweetness and clarity none can compare
+W:    So open your heart for heavenly harmony
+W:    Here on this hill will be filling the air
+W:
+W: CHORUS
+W:    With chariots of cherubim chanting
+W:    And seraphim singing hosanna
+W:    And a choir of archangels a-caroling come
+W:    Hallelujah Hallelu
+W:    All the angels a-trumpeting glory
+W:    In praise of the Prince of Peace
+W:
+W: 3. Bring your sheep bleating to this happy meeting
+W:    To hear how the lamb with the lion shall lie
+W:    It's mooing and braying you'll hear the song saying
+W:    The humble and lowly will be the most high
+W:    Let the horn of the herdsman be heard up in heaven
+W:    For the gates are flung open for all who come near
+W:    And the simplest of souls shall sing to infinity
+W:    Lift up and listen and you shall hear
+W:
+W: 4. The warmonger's charger will thunder for freedom
+W:    The gun-maker's furnace will dwindle and die
+W:    And muskets and sabers and swords shall be sundered
+W:    Surrendered to the sound that is sweeping the sky
+W:    And the shoes of the mighty shall dance to new measures
+W:    And the jackboots of generals shall jangle no more
+W:    As sister and brother and father and mother
+W:    Agree with each other the end to all war
+W:
+W: 5. As a candle can conquer the demons of darkness
+W:    As a flame can keep frost from the deepest of cold
+W:    So a song can give hope in the depths of all danger
+W:    And a line of pure melody soar in your soul
+W:    So sing your songs well and sing your songs sweetly
+W:    And swear that your singing it never shall cease
+W:    So the clatter of battle and drums of disaster
+W:    Be drowned in the sound of the pipes of peace
+W:
+W: We do verses 1, 3, 4, and 5.
+W:
+W: 2. See on yon stable the starlight is shimmering
+W:    And glimmering and glistening and glowing with glee
+W:    In Bethlehem blest this baby of bliss will be
+W:    Born here before you as bold as can be
+W:    And you'll be the first to hear the new symphony
+W:    Songs full of gladness  and glory and light
+W:    So learn your tunes well and play your pipes proudly
+W:    For the Prince of Paradise plays here tonight
+
+X:5
+T:Cutty Wren, The
+C:Collected from an Adderbury shepherd by A.L. Lloyd
+C:-set to a version of the tune, "Green Bushes"
+N:notes from http://www.mysongbook.de/msb/songs/c/cutywren.html
+%
+M:6/8
+L:1/8
+Q:3/8=60
+K:A dorian
+%
+E | A A (B/A/) G A B | e e (d/B/) G A E | 
+w: Oh where are you_ go- ing, said Mil- der to_ Moul- der. Oh
+%
+A A (B/A/) G A B | e g f e2 d e |
+w: we may not_ tell you, said Fes- tel to Fose. We're off 
+%
+e a (e f) g | B d B (G A) E | 
+w: to the woods,_ said John the Red Nose._ We're 
+%
+A A (B/A/) (G A) B | e d B A2 |] 
+w: off to the_ woods,_ said John the Red Nose. 
+%
+%%vskip 0.8cm
+%
+W: Oh where are you going, said Milder to Moulder.
+W: Oh we may not tell you, said Festel to Fose.
+W: We're off to the woods, said John the Red Nose. 
+W: We're off to the woods, said John the Red Nose. 
+W: 
+W: And what will you do there, said Milder to Moulder. 
+W: Oh we may not tell you, said Festel to Fose.
+W: We'll hunt the Cutty wren, said John the Red Nose. 
+W: We'll hunt the Cutty wren, said John the Red Nose. 
+W: 
+W: And how will you shoot her, said Milder to Moulder. 
+W: Oh we may not tell you, said Festel to Fose.
+W: With bows and with arrows, said John the Red Nose. 
+W: With bows and with arrows, said John the Red Nose. 
+W: 
+W: Oh that will not do, said Milder to Moulder. 
+W: Oh what will you do then, said Festel to Fose 
+W: Big guns and big cannon, said John the Red Nose. 
+W: Big guns and big cannon, said John the Red Nose. 
+W: 
+W: And how will you carry her, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose 
+W: On four strong men's shoulders, said John the Red Nose. 
+W: On four strong men's shoulders, said John the Red Nose. 
+W: 
+W: But that will not do, said Milder to Moulder 
+W: Oh what will do then, said Festel to Fose 
+W: In a big horse and wagon, said John the Red Nose. 
+W: In a big horse and wagon, said John the Red Nose. 
+W: 
+W: And how will you cut her up, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose.
+W: With knives and with forks, said John the Red Nose. 
+W: With knives and with forks, said John the Red Nose. 
+W: 
+W: But that will not do, said Milder to Moulder 
+W: Oh what will you do then, said Festel to Fose 
+W: Hatchets and cleavers, said John the Red Nose. 
+W: Hatchets and cleavers, said John the Red Nose. 
+W: 
+W: Oh how will you cook her, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose.
+W: In pots and in pans, said John the Red Nose 
+W: In pots and in pans, said John the Red Nose 
+W: 
+W: Oh but that will not do, said Milder to Moulder 
+W: Oh what will you do then, said Festel to Fose 
+W: In a bloody great brass cauldron, said John the Red Nose. 
+W: In a bloody great brass cauldron, said John the Red Nose. 
+W: 
+W: Oh who'll get the spare ribs, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose.
+W: We'll give 'em all to the poor, said John the Red Nose. 
+W: We'll give 'em all to the poor, said John the Red Nose. 
+
+%%newpage
+
+X:6
+T: Dona Nobis Pacem
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 8            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:3/4
+L:1/4
+Q:90
+K:F
+%
+"I"
+(F/C/) A2|(G/C/) B2|(A G F)|F E2|
+w: Do_ na no_ bis pa___ cem.
+(d c/B/) (A/G/)|(c>B) A|(A/G/ F E)|F3||
+w: Do___ na no_ bis pa___ cem.
+%
+"II"
+c3|c3|(c B) A|A G2|
+w: Do- na no_ bis pa- cem.
+d d2|c c2|(c/B/ (A) G)|F3||
+w: Do- na no- bis pa___ cem.
+%
+"II"
+F3|E3|(F>G) (A/B/)|c C2|
+w: Do- na no- bis pa__ cem.
+B B2|A A2|(E/G/ c C)|F3||
+w: Do- na no- bis pa___ cem.
+
+X:7
+T:Down In Yon Forest
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+M:6/8
+L:1/8
+K:G#min %Transposed from Amin
+%
+[V:1]  G   A   G   F   G  A  | B   A   G   A2  D  |
+[V:2]  B,   C   B,   A,  B,  C  | D   C   B,   C2  D  |
+w: 1.~Down in yon for- est a grow- ing so tall, There
+w: 2.~Down in yon for- est there grows a sharp thorn, As
+w: 3.~Down in yon for- est there stands a stout oak, For
+w: 4.~Down in yon for- est as thick as you please, We'll
+w: 5.~Down in yon for- est the ash we shall dress, And
+w: 6.~Down in yon for- est there grow great and small, E-
+[V:3]  G,  G,  G,  D,  D, D, | G,  G,  G,  D,2 D, |
+[V:4]  G,, G,, G,, D,  D, D, | G,, G,, G,, D,2 D, |
+%
+[V:1] G   A   G   F   G  A  | B   A   G   A2  A  |
+[V:2] B,   C   B,   A,  B,  C  | D   C   E   D2  D  |
+w: pros- per in win- ter as so shall we all, The
+w: bit- ter as a- ny word spo- ken in scorn, But
+w: crea- tures a shel- ter, for gods a green cloak, For
+w: dance in the or- chard of fine ap- ple trees, Whose
+w: bind in- to bun- dles to burn and to bless, To
+w: nough sil- ver bir- ches as tor- ches for all, To
+[V:3] G,  G,  G,  D,  D, D, | G,  G,  G,  D,2 D, |
+[V:4] G,, G,, G,, D,  D, D, | G,, G,, G,, D,2 D, |
+%
+[V:1] B A B c B c | d B G =G2 D |
+[V:2] D C D E D E | F D B, A,2 D |
+w: bril- liant green i- vy and hol- ly so bright, So
+w: scorn have we none nor the will for to fight, So
+w: us good- ly fire- wood to make our hearth bright, So
+w: health we will drink 'til the grey mor- ning light, So
+w: car- ry good ti- dings and glad- den our sight, So
+w: light our way home- ward when time it is right, So
+[V:3] G,  G,  G,  F,  F,  F,  | B,  G, E, D,2 D, |
+[V:4] G,, G,, G,, F,, F,, F,, | B,, B,, E, D,2 D, |
+%
+[V:1] G   A   G   F   G  A  | B   A   B   G3   |]
+[V:2] B,   C   B,   A,  B,  C  | D   C   D   B,3   |]
+w: let us be mer- ry this long win- ter's night.
+[V:3] G,  G,  G,  D,  D, D, | D,  D,  D,  D,3  |]
+[V:4] G,, G,, G,, D,  D, D, | D,  D,  D,  G,,3 |]
+%
+%%vskip 0.8cm
+%
+W: (Sopranos only)
+W: 1. Down in yon forest a-growing so tall
+W:    There prosper in winter as so shall we all
+W:    The brilliant green ivy and holly so bright
+W:    So let us be merry this long winter's night
+W:
+W: (Sopranos and Altos)
+W: 2. Down in yon forest there grows a sharp thorn
+W:    As bitter as any word spoken in scorn
+W:    But scorn have we none nor the will for to fight
+W:    So let us be merry this long winter's night
+W:
+W: (All parts)
+W: 3. Down in yon forest there stands a stout oak
+W:    For creatures a shelter, for gods a green cloak
+W:    For us goodly firewood to make our hearth bright
+W:    So let us be merry this long winter's night
+W:
+W: (All parts)
+W: 4. Down in yon forest as thick as you please
+W:    We'll dance in the orchard of fine apple trees
+W:    Whose health we will drink 'til the grey morning light
+W:    So let us be merry this long winter's night
+W:
+W: (All in unison; Soprano part)
+W: 5. Down in yon forest the ash we shall dress
+W:    And bind into bundles to burn and to bless
+W:    To carry good tidings and gladden our sight
+W:    So let us be merry this long winter's night
+W:
+W: (All parts)
+W: 6. Down in yon forest there grow great and small
+W:    Enough silver birches as torches for all
+W:    To light our way homeward when time it is right
+W:    So let us be merry this long winter's night
+
+X:8
+T:Friendly Beasts, The
+%
+M:3/4
+L:1/4
+K:F
+%
+F F G | A2 A | G2 E | F2 c | c2 c |
+w:Je- sus, our broth- er, kind and good, Was hum- bly
+%
+d2 d/ d/ | c2 c | A2 A/ A/ | A2 G | B2 A |
+w:born in a sta- ble rude; And the friend- ly beasts a-
+%
+G2 F | A2 z | c c B | A2 F | G2 E | F2 z |]
+w:round Him stood. Je- sus, our broth- er, kind and good.
+%
+%%vskip 0.8cm
+%
+W: 1. Jesus, our brother, kind and good,
+W: Was humbly born in a stable rude;
+W: And the friendly beasts around Him stood.
+W: Jesus, our brother, kind and good.
+W:
+W: 2. "I," said the Donkey, shaggy and brown,
+W: "I carried His mother up hill and down;
+W: I carried His mother to Bethlehem town."
+W: "I," said the Donkey, shaggy and brown.
+W:
+W: 3. "I," said the Cow, all white and red,
+W: "I gave Him my manger for His bed;
+W: I gave Him my hay to pillow His head."
+W: "I," said the Cow, all white and red.
+W:
+W: 4. "I," said the Sheep, with the curly horn,
+W: "I gave Him my wool for His blanket warm;
+W: He wore my coat on Christmas morn."
+W: "I," said the Sheep, with the curly horn.
+W:
+W: 5. "I," said the Dove, from the rafters high,
+W: "I cooed Him to sleep that He should not cry;
+W: We cooed Him to sleep, my mate and I."
+W: "I," said the Dove, from the rafters high.
+W:
+W: 6. Thus every beast by some glad spell,
+W: In the stable dark was glad to tell
+W: Of the gift he gave Emmanuel,
+W: The gift he gave Emmanuel.
+
+X:9
+T:Gloucestershire Wassail
+C:Traditional
+C:arr. Ralph Vaughn-Williams
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+K:E % Transposed from G
+%
+[V:1] B,  | E2    E  | E  F  G  | A   G   F   | G B B  | A  F  F  |
+[V:2] B,  | B,2   C  | B, B, E  | E   E   F   | E2  E  | C  C  C  |
+w: Was- sail, was- sail,_ all o- ver the town! Our toast it is
+[V:3] B,, | E, G, A, | G, G, B, | C   C   C   | B,2 G, | C  C  A, |
+[V:4] B,, | E,2   E, | E, E, E, | A,, A,, A,, | E,2 E, | F, F, E, |
+%
+[V:1] F  G  A   | G/F/ E/F/ G  | F2   A/A/   | G/F/ E/F/ G/A/ | B2  B/A/     |
+[V:2] B, B, D   | E    E    E  | D2   E/F/   | E    E    E    | F2  D/D/     |
+w: white and our ale it is brown, Our_ bowl it is made of the
+[V:3] B, B, B,  | B,   G,   E, | B,2  B,/B,/ | B,   G,   E,   | B,2 B,/B,/   |
+[V:4] D, D, B,, | E,   E,   E, | B,,2 C,/D,/ | E,   E,   E,   | D,2 B,,/B,,/ |
+%
+[V:1] G  E  G  | F2   E/F/   | G2  F/G/   | A2   G  | F   E   D   | E3        ||
+[V:2] E  E  E  | D2   B,/B,/ | E2  E/E/   | E2   E  | C   C   B,  | B,3       ||
+w: white ma- ple tree, With the was- sail- ing bowl we'll drink_ to thee.
+[V:3] B, G, E, | B,2  B,/B,/ | B,2 B,/B,/ | C2   B, | A,  G,  F,  | G,3       ||
+[V:4] E, E, E, | B,,2 C,/D,/ | E,2 E,/E,/ | A,,2 E, | A,, A,, B,, | [E,3E,,3] ||
+%
+[V:1] (2G   E   | (2G  B-   | B3   | (2G  E  | (2G  F-  | F3  |
+[V:2] (2E   E   | (2E  E-   | E3   | (2E  E  | (2E  B,  | C3  |
+w: Drink_ to thee_ drink_ to thee_
+[V:3] (2G,  E,  | (2G, B,-  | B,3  | (2G, E, | (2G, F,- | F,3 |
+[V:4] (2B,, B,, | (2E, B,,- | B,,3 | (2C, C, | (2F, B,, | C,3 |
+%
+[V:1] z2 E/F/   | G2  F/G/   | A2   G  | F   E   D   |  E2       |]
+[V:2] z2 B,/B,/ | E2  E/E/   | E2   E  | B,  B,  B,  |  B,2      |]
+w: With the was- sail- ing bowl we'll drink_ to thee.
+[V:3] z2 B,/B,/ | B,2 B,/B,/ | C2   B, | A,  G,  F,  |  G,2      |]
+[V:4] z2 C,/D,/ | E,2 E,/E,/ | A,,2 E, | A,, B,, B,, | [E,2E,,2] |]
+%
+%%newpage
+%
+W: Verses in this order and chorus only on the last time.
+W:
+W: 1. Wassail, wassail, all over the town!
+W:    Our toast it is white and our ale it is brown,
+W:    Our bowl it is made of the white maple tree;
+W:    With the wassailing bowl, we'll drink to thee.
+W:
+W: 6. And here is to Colly and to her long tail,
+W:    Pray God send our master he never may fail,
+W:    A bowl of strong beer; I pray you draw near,
+W:    And our jolly wassail it's then you shall hear.
+W:
+W: 7. Come butler, come fill us a bowl of the best,
+W:    Then we hope that your soul in heaven may rest;
+W:    But if you do draw us a bowl of the small,
+W:    Then down shall go butler, bowl and all.
+W:
+W: 8. Then here's to the maid in the lily-white smock,
+W:    Who tripped to the door and slipped back the lock!
+W:    Who tripped to the door and pulled back the pin,
+W:    For to let these jolly wassailers in.
+W:
+W: 5. And here is to Fillpail and to her left ear,
+W:    Pray God send our master a happy New Year,
+W:    And a happy New Year as e'er he did see;
+W:    With our wassailing bowl, we'll drink to thee.
+W:
+W: Chorus (last time only):
+W:    Drink to thee, drink to thee,
+W:    With our wassailing bowl we'll drink to thee.
+W:
+W:    We haven't been doing verses 2-4.
+W:
+W: 2. So here is to Cherry and to his right cheek,
+W:    Pray God send our master a good good piece of beef,
+W:    And a good piece of beef that may we all see;
+W:    With a wassailing bowl, we'll drink to thee.
+W:
+W: 3. And here is to Dobbin and to his right eye,
+W:    Pray God send our master a good Christmas pie,
+W:    A good Christmas pie that may we all see;
+W:    With our wassailing bowl, we'll drink to thee.
+W:
+W: 4. And here is to Broad May and to her broad horn,
+W:    May God send our master a good crop of corn,
+W:    And a good crop of corn that may we all see;
+W:    With the wassailing bowl, we'll drink to thee.
+
+X:10
+T:Good King Wenceslaus
+C:J.M. Neale, 1818-1866
+%
+M:C
+L:1/4
+K:G
+%
+GG GA|GG D2|ED EF|G2 G2|
+w: Good King Wen- ces- laus looked out on the feast of Ste- phen.
+%
+GG GA|GG D2|ED EF|G2 G2|
+w: When the snow lay round a- bout, deep and crisp and ev- en.
+%
+dc BA|BA G2|ED EF|G2 G2|
+w: Bright- ly shone the moon that night, though the frost was cru- el,
+%
+DD EF|GG A-A|dc BA|G2 c2|G4|]
+w: When a poor man came in sight_ ga-ther-ing win-ter fu-el.
+%
+%%vskip 0.8cm
+%
+W: We've had the king and page do their parts alone.
+W:
+W: A. Good King Wenceslaus looked out on the feast of Stephen.
+W:    When the snow lay round about, deep and crisp and even.
+W:    Brightly shone the moon that night, though the frost was cruel,
+W:    When a poor man came in sight, gathering winter fuel.
+W:
+W: K. Hither page and stand by me, if thou knowst it telling,
+W:    Yonder peasant, who is he, where and what his dwelling?
+W: P. Sire, he lives a good league hence, underneath the mountain,
+W:    Right against the forest fence, by Saint Agnes' fountain.
+W:
+W: K. Bring me flesh and bring me wine, bring me pinelogs hither
+W:    Thou and I will see him dine, when we bear them thither
+W: A. Page and monarch forth they went, forth they went together;
+W:    Through the rude winds wild lament and the bitter weather.
+W:
+W: P. Sire, the night is darker now, and the wind blows stronger
+W:    Fails my heart, I know now how; I can go no longer.
+W: K. Mark my footsteps, my good page, tread thou in them boldly;
+W:    Thou shalt find the winter's rage freeze thy blood less coldly.
+W:
+W: A. In his master's steps he trod, where the snow lay dinted;
+W:    Heat was in the very sod which the saint had printed.
+W:    Therefore, Christian men be sure, wealth or rank possessing,
+W:    Ye who now will bless the poor, shall yourselves find blessing.
+
+X:11
+T:Gower Wassail
+%
+M:9/8
+L:1/8
+K:B %Transposed from C
+%
+(D2 G) | G3 G3 (A2 G) | F3 F3 (G2 A) | B3 B3 c3 | A6 (B2 A) |
+w: A - was- sail a - was- sail, through - out all this town. Our_
+%
+G3 G3 A3 | (BcB) A3 G3 | F3 D3 D3 | D6 (D2 G) | G3 G3 (A2 G) |
+w: cup it is white__ and our ale it is brown. Our_ was- sail is_
+%
+F6 G2 A | (2(B A) B3 c3 | A6 (B2 A) | G3 G3 A3 |
+w: made of the good - ale and true. Some_ nut- meg and
+%
+(BcB) A3 G2 G | F3 D3 D3 | (D3 C3) || "Chorus" B,2 C | D3 D2 F E2 D |
+w: gin -* ger, it's the best we can brew._ Fol the dol, fol the dol- de-
+%
+C3 C2 E D2 C | B,3 B,2 D C2 B, | A,6 G,2 A, |
+w: dol, Fol the dol- de- dol, fol the dol- de- dee, Fol the
+%
+(B,CB,) A,3 B,2 C | E3 D3 C3 | D3 G3 F3 | G6 |]
+w: der -* o, fol the da- dee, Sing tu- re- lye- do!
+%
+%%newpage
+%
+W: 1. A-wassail, a-wassail, throughout all this town.
+W:    Our cup it is white and our ale it is brown.
+W:    Our wassail is made of the good ale and true,
+W:    Some nutmeg and ginger, it's the best we can brew.
+W:
+W:    CHORUS
+W:    Fol the dol, fol the dol-de-dol,
+W:    Fol the dol-de-do, fol the dol-de-dee,
+W:    Fol the der-o, fol the da-dee,
+W:    Sing tu-re-lye-do!	
+W:
+W: 2. Our wassail is made of the elderberry bough,
+W:    And so, my good neighbor, we'll drink unto thou.
+W:    Besides all on earth, you'll have apples in store,
+W:    Pray let us come in for it's cold by the door.
+W:
+W: 3. We hope that your apple trees prosper and bear
+W:    So that we may have cider when we call next year.
+W:    And where you've one barrel, we hope you'll have ten
+W:    So that we may have cider when we call again.
+W:
+W: 4. We know by the moon that we are not too soon,
+W:    And we know by the sky that we are not too high,
+W:    We know by the stars that we are not too far,
+W:    And we know by the ground that we are within sound.
+
+X:12
+T:Holly and the Ivy, The
+C:collected by Maud Karpeles and Pat Shaw
+%
+M:3/4
+L:1/4
+Q:130
+K:F %Transposed from G
+%
+F/ | (A/G/) F/ (C/F/) G/ | F/ F2 c/ | (c/A/) F/ G  A/ | G3/2-G c/ |
+w: The  hol -  ly and_   the  i- vy,  When they_ are both full grown,_  Of
+%
+c A/ A/ G/ A/ | (B/A/) B/ G B/ | (A/G/) F/ (G/F/) E/ |
+w: all the trees that are in_ the wood, The hol_ ly bears_ the
+%
+F3/2 || "Chorus" F G/ | (A/G/) F/ (C/F/) G/ | (F3/2 F/) c/ c/ |
+w: crown. Oh, the ris_ ing of_ the sun,_ And the
+%
+(c/A/) F/ G A/ | (G3/2 G) c/ | c A/ (A/G/) A/ |
+w: run - ning of the deer,_ The play- ing of_ the
+%
+B/ A/ B/ (G/A/) B/ | A/ G/ F/ (G/F/) E/ | F3/2-F |]
+w: mer- ry or- gan,_ Sweet sing- ing all in_ the choir._
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%text This is the version that we sing.
+%
+%%vskip 0.8cm
+%
+W: 1. The holly and the ivy,
+W:    When they are both full grown.
+W:    Of all the trees that are in the wood
+W:    The holly bears the crown.
+W:
+W:    CHORUS
+W:    Oh, the rising of the sun,
+W:    And the running of the deer,
+W:    The playing of the merry organ,
+W:    Sweet singing all in the choir.
+W:
+W: 2. The holly bears a blossom,
+W:    As white as any milk,
+W:    And Mary bore sweet Jesus Christ,
+W:    All wrapp\'ed up in silk.
+W:
+W: 3. The holly bears a berry,
+W:    As red as any blood,
+W:    And Mary bore sweet Jesus Christ,
+W:    To do poor sinners good.
+W:
+W: 4. The holly bears a prickle,
+W:    As sharp as any thorn,
+W:    And Mary bore sweet Jesus Christ,
+W:    On Christmas Day in the morn.
+W:
+W: 5. The holly bears a bark,
+W:    As bitter as any gall,
+W:    And Mary bore sweet Jesus Christ,
+W:    For to redeem us all.
+W:
+W:    We tend to leave off last verse
+W:
+W: 6. The holly and the ivy,
+W:    When they are both full grown.
+W:    Of all the trees are in the wood
+W:    The holly bears the crown.
+
+X:13
+T:Homeless Wassail, The
+C:Ian Robb, 1998
+%
+M:4/4
+Q:1/4=100
+K:Amin
+%
+E2 | A3 B c2 e2 | d2 BA G3 B |
+w: Was- sail, was- sail all o- ver the town, Our
+%
+c2 A2 B2 AG | E2 G2 A4- | A2 E2 A3 B |
+w: cup is white and our ale is brown;_ But hud- dled
+%
+c2 e2 d2 (BA) | G3 B c2 A2 | (BA) G2 E2 G2 | A6 ||
+w: on this i- ron_ grate, We poor and hun_ gry curse our fate.
+%
+"Chorus:"
+G2 | c2 c2 c2 (Bc) | d2 d2 e3 d | c2 A2 (BA) G2 |
+w: No Was-sail bowl for_ such as these, No tur- key scraps,_ no
+%
+A2 G2 (E^F) G2 | c2 c2 c2 (Bc) |
+w: ale,  no cheese;_  This Christ- mas Eve our_
+%
+d3 G e4- | e2 ed cc A2 | B2 AG E2 G2 | A6 |]
+w: heart's de- sire_ Is a bot- tle of gin and a trash can fire.
+%
+%%vskip 0.8cm
+%
+W: 1. Wassail, wassail all over the town,
+W:    Our cup is white and our ale is brown;
+W:    But huddled on this iron grate
+W:    We poor and hungry curse our fate.
+W:
+W: Chorus:
+W:    No Wassail bowl for such as these,
+W:    No turkey scraps, no ale, no cheese;
+W:    This Christmas Eve our heart's desire
+W:    Is a bottle of gin and a trash can fire.
+W:
+W: 2. Good Christian mind as home you go,
+W:    With dreams of holly and mistletoe,
+W:    That the holly bears a dreadful thorn
+W:    For those who wake to a frozen dawn
+W:
+W: 3. Oh, where is he that holy child
+W:    Once born of Mary, meek and mild?
+W:    And wither peace, good will to men
+W:    Now and forevermore, amen?
+W:
+W: 4. All ye who dine with face aglow
+W:    In reginensi atrio
+W:    Pray, pause awhile at pleasure's door
+W:    And sup some sorrow with the poor.
+W:
+W:    Last time, no chorus
+W: 5. Wassail, wassail all over the town
+W:    Our cup is white and our ale is brown;
+W:    This cold and hunger pain and care,
+W:    Sweet Jesus Christ, it's hard to bear!
+W:
+
+X:14
+T:Hunting the Wren
+%
+M:6/8
+L:1/8
+Q:400
+K:G
+%
+d d d d3 | B  G G  G z2 | 
+w: "What- 'll we do?" says Ris- ky Rob.
+%
+e e e e3 | c (3AAA A z2 |
+w: "What- 'll we do?" says Ro- bin to Bob.
+%
+d d d d3 | B (3GGG c z2 |
+w: "What- 'll we do?" says Jack-all-a- lone.
+%
+c c c B3 | G  A A  G z2 |]
+w: "What- 'll we do?" says ev- 'ry- one. 
+%
+%%vskip 0.8cm
+%
+W: "What'll we do?" says Risky Rob.
+W: "What'll we do?" says Robin to Bob.
+W: "What'll we do?" says Jack-all-alone.
+W: "What'll we do?" says everyone. 
+W: 
+W: "We'll hunt the wren." says Risky Rob.
+W: "We'll hunt the wren." says Robin to Bob.
+W: "We'll hunt the wren." says Jack-all-alone.
+W: "We'll hunt the wren." says everyone.
+W: 
+W: "How'll we shoot her?" says Risky Rob.
+W: "How'll we shoot her?" says Robin to Bob.
+W: "How'll we shoot her?" says Jack-all-alone.
+W: "How'll we shoot her?" says everyone.
+W: 
+W: "Sticks and stones," says Risky Rob.
+W: "Bows and arrows," says Robin to Bob.
+W: "Big guns and cannons," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carry her?" says Risky Rob.
+W: "How'll we carry her?" says Robin to Bob.
+W: "How'll we carry her?" says Jack-all-alone.
+W: "How'll we carry her?" says everyone.
+W: 
+W: "Four strong men's shoulders," says Risky Rob.
+W: "Horse and wagon," says Robin to Bob.
+W: "A big eighteen-wheeler," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we cook her?" says Risky Rob.
+W: "How'll we cook her?" says Robin to Bob.
+W: "How'll we cook her?" says Jack-all-alone.
+W: "How'll we cook her?" says everyone.
+W: 
+W: "Pots and pans," says Risky Rob.
+W: "Bloody great cauldrons," says Robin to Bob.
+W: "A microwave oven," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carve her?" says Risky Rob.
+W: "How'll we carve her?" says Robin to Bob.
+W: "How'll we carve her?" says Jack-all-alone.
+W: "How'll we carve her?" says everyone.
+W: 
+W: "Knives and forks," says Risky Rob.
+W: "Hatchets and cleavers," says Robin to Bob.
+W: "Gas-driven chainsaws," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "Who'll come to dinner?" says Risky Rob.
+W: "Who'll come to dinner?" says Robin to Bob.
+W: "Who'll come to dinner?" says Jack-all-alone.
+W: "Who'll come to dinner?" says everyone.
+W: 
+W: "The King and the Queen," says Risky Rob.
+W: "The House and the Senate," says Robin to Bob.
+W: "All of New England," says Jack-all-alone.
+W: "Invite the whole world," says everyone. 
+W: 
+W: "Eyes to the blind," says Risky Rob.
+W: "Legs to the lame" says Robin to Bob.
+W: "Ribs to the poor" says Jack-all-alone. 
+W: "Bones to the dogs" says everyone. 
+
+X:15
+T:In Praise of Christmas
+T:To Drive the Cold Winter Away
+C:Words: Tom Durfey (1653-1723)
+C:Tune: 18th Century
+H:Martin Shaw and Percy Dearmer, The English Carol Book, First Series
+S:A. H. Bullen, A Christmas Garland
+S:  (London: John C. Nimmo, 1885), pp. 157-161
+%
+%%barsperstaff 3            % number of measures per staff
+M:6/8
+L:1/8
+K:Am % Transposed from Cm
+%
+A, | C3/ B,/ A, E2 A | G3/ F/ E c2 C | D3/ D/ E F3/ G/ F | E3- E2 A, |
+w: 1.~All hail to the days that mer- it more praise, Than all of the rest of the year,_ And
+w: 2.~Tis ill for a mind to an- ger in- clined To think of small in- jur- ies now,_ If
+w: 3.~This time of the year is spent in good cheer, And neigh- bours to- geth- er do meet,_ To
+w: 4.~When Christ- a- mas's tide comes in like a bride, With hol- ly and i_ vy clad,_ Twelve
+%
+C3/ B,/ A, E2 A | G3/ F/ E c2 C | D3/ D/ E F3/ G/ F | E3- E2 A |
+w: wel- come the nights, that dou- ble de- lights, As well for the poor as the peer!_ Good
+w: wrath be to seek, do~not lend her your cheek, Nor let her in- ha- bit thy brow._ Cross
+w: sit by the fire, with friend- ly de- sire, Each oth- er in love for to greet._ Old
+w: days in the year, much mirth and good cheer In e- ver- y house- hold is had._ The
+%
+G3/ F/ E G2 A | F3/ E/ D F2 G | E3/ D/ C B,2 A, | (c3 B2) A |
+w: for- tune at- tend each mer- ry man's friend, That doth but the best that~he may,_ For
+w: out of thy books ma- lev- o- lent looks, Both beau- ty and youth's de- cay,_ And
+w: grud- ges for- got are put in the pot, All sor- rows a- side they lay;_ The
+w: coun- t- ry guise is then to de- vise Some gam- bols of Christ- mas play,_ Where
+%
+G3/ F/ E G2 A | F3/ E/ D F2 G |
+w: get- ting old wrongs with ca- rols and songs, To
+w: whol- ly con- sort with mirth and with sport, To
+w: old and the young doth ca- rol this song, To
+w: at the young men do the best that~they can, To
+%
+E3/ D/ C B,3/ A,/ B, | A,3- A,2 |]
+w: drive the cold win- ter a- way._
+%
+%%newpage
+%
+W: 1. All hail to the days that merit more praise
+W:    Than all of the rest of the year,
+W:    And welcome the nights that double delights
+W:    As well for the poor as the peer!
+W:    Good fortune attend each merry man's friend
+W:    That doth but the best that he may,
+W:    Forgetting old wrongs with carols and songs
+W:    To drive the cold winter away.
+W:
+W: 2. Tis ill for a mind to anger inclined
+W:    To think of small injuries now,
+W:    If wrath be to seek, do not lend her your cheek,
+W:    Nor let her inhabit thy brow.
+W:    Cross out of thy books malevolent looks,
+W:    Both beauty and youth's decay,
+W:    And wholly consort with mirth and with sport
+W:    To drive the cold winter away.
+W:
+W: 3. This time of the year is spent in good cheer,
+W:    And neighbours together do meet,
+W:    To sit by the fire, with friendly desire,
+W:    Each other in love for to greet.
+W:    Old grudges forgot are put in the pot,
+W:    All sorrows aside they lay;
+W:    The old and the young doth carol this song,
+W:    To drive the cold winter away.
+W:
+W: 4. When Christmas's tide comes in like a bride,
+W:    With holly and ivy clad,
+W:    Twelve days in the year, much mirth and good cheer
+W:    In every household is had.
+W:    The country guise is then to devise
+W:    Some gambols of Christmas play,
+W:    Whereat the young men do the best that they can
+W:    To drive the cold winter away.
+%%barsperstaff 0            % return to default
+
+X:16
+T:In the Bleak Midwinter
+C:Words by Christina Rossetti
+C:Music by Gustav Holst
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+M:C
+L:1/4
+K:G dorian
+%
+[V:1] A  | A>B   c A   | G>-G   F z  | G>A    G   D   | G3        z |
+[V:2] F  | F>F   F C   | D>-D   D z  | D>D    D   C   | B,3       z |
+w: 1. In the bleak mid- win_ ter, Fros- ty wind made moan,
+w: 4. An- gels and arch- an_ gels, May have ga- thered there,
+w: 5. What_ can I give_ him, Poor_ as I am?
+[V:3] C  | C>C   C  F, | A,>-A, A, z | G,>D,  D,  F,  | (F,2  E,) z |
+[V:4] F, | F,>G, A, F, | D,>-D, D, z | B,,>C, B,, A,, | (G,,2 C,) z |
+%
+[V:1] A>B   c  A  | G>-G   F  z | (G   A)   G>F    | F3   F  |
+[V:2] C>F   F  C  | D>-D   D  z | (F   F)   E>F    | F3   F  |
+w: Earth stood hard as i_ ron,  Wa- ter like a stone; *
+w: Che- ru- bim and se- ra- phim,  Throng_ \'ed the air: But
+w: If I were a shep_ herd  I would  bring a lamb; *
+[V:3] F,>C  C  F, | A,>-A, A, z | (D   D)   B,>A,  | A,3  A, |
+[V:4] F,>G, A, F, | D,>-D, D, z | (B,, B,,) C,>F,  | F,3  F, |
+%
+[V:1] B>A   B  c  | d   d   A  z | c   A   G   F   | E3  E  |
+[V:2] F>F   F _E  | D   D   F  z | F   E   D   D   | C3  C  |
+w: Snow had fal- len, snow on snow, Snow_ on_ snow, *
+w: on - ly his mo - ther, In her maid- en bliss, *
+w: If I were a wise_ man, I would do my part; Yet
+[V:3] B,>C  B, A, | B,  B,  A, z | F,  C   B,  A,  | G,3 G, |
+[V:4] D,>F, D, C, | B,, B,, D, z | A,, A,, B,, B,, | C,3 C, |
+%
+[V:1] A>B   c  A  | G2  F  z | G A  (G>F)   | F3  |]
+[V:2] C>F   F  C  | D2  D  z | F2   (E>F)   | F3  |]
+w: In the bleak mid- win- ter, Long a_ go.
+w: Wor- shipped the Be- lov- ed With a_ kiss.
+w: what I can I give him, Give my_ heart.
+[V:3] F,>C  C  F, | A,2 A, z | D2   (B,>A,) | A,3 |]
+[V:4] F,>G, A, F, | D,2 D, z | B,,2 (C,>F,) | F,3 |]
+%
+%%newpage
+%
+W: 1. In the bleak mid-winter, Frosty wind made moan,
+W:    Earth stood hard as iron, Water like a stone;
+W:    Snow had fallen, snow on snow, Snow on snow,
+W:    In the bleak midwinter, Long ago.
+W:
+W: 4. Angels and archangels, May have gathered there,
+W:    Cherubim and seraphim Thronged the air:
+W:    But only his mother In her maiden bliss
+W:    Worshipped the Beloved With a kiss.
+W:
+W: 5. What can I give him, Poor as I am?
+W:    If I were a shepherd I would  bring a lamb;
+W:    If I were a wise man I would do my part;
+W:    Yet what I can I give him, Give my heart.
+W:
+W: We sing verses 1, 4, 5.
+W:
+W: 2. Our God in heav'n cannot hold him Nor earth sustain;
+W:    Heav'n and earth shall flee away When he comes to reign:
+W:    In the bleak mid-winter A stable place sufficed
+W:    The Lord God Almighty, Jesus Christ.
+W:
+W: 3. Enough for him, whom cherubim Worship night and day,
+W:    A breastful of milk, And a mangerful of hay;
+W:    Enough for him, whom angels Fall down before,
+W:    The ox and ass and camel Which adore.
+
+X:17
+T:Kentucky Wassail
+C:trad. American
+%
+M:2/4
+L:1/8
+Q:1/4=88
+K:G
+%
+(D/E/) | G (G/A/) d (e/d/) | c/ B/ A A> d |
+w: Was_ sail, was_ sail, all_ o- ver ther town, Our
+%
+B G G A/ B/ | A D D (d/c/) | (B/A/) G (G/A/) B/ G/ |
+w: cup is  white and our ale is brown. The_ cup_ is made_ from the
+%
+A D D d/ c/ | [M:3/4] (B/A/) G (G/A/) (B/G/) A d | [M:2/4] d2 d c |
+w: old oak tree, And the ale_ is made_ in_ Ken- tuck- y, So it's
+%
+B2 A G | D2 G F | G <G G2 | G3 |]
+w: joy be to you and a jol- ly was- sail.
+%
+%%vskip 0.8cm
+%
+W: 1. Wassail, wassail, all over ther town,
+W:    Our cup is  white and our ale is brown.
+W:    The cup is made from the old oak tree,
+W:    And the aleis madeinKentucky,
+W:    So it's joy be to you and a jolly wassail.
+W:
+W: 2. Oh, good man and good wife, are you within?
+W:    Pray lift the latch and let us come in.
+W:    We see you a-sitting at the boot o' the fire,
+W:    Not a-thinkin' of us in the mud and the mire.
+W:    So it's joy be to you and a jolly wassail.
+W:
+W: 3. There was an old maid and she lived in a house,
+W:    And she had for a pet a tiny wee mouse.
+W:    Oh, the house had a stove and the house was warm,
+W:    And a little bit of liquor won't do no harm.
+W:    So it's joy be to you and a jolly wassail.
+W:
+W: 4. Oh, a man in York drank his sack from a pail,
+W:    But all we ask is a wee wassail.
+W:    Oh, husband and wife, alack, we part,
+W:    God bless this house from the bottom of our heart.
+W:    So it's joy be to you and a jolly wassail.
+
+X:18
+T:King Herod And The Cock
+C:trad. English; arr. Jerome Epstein
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+%%staves [(1 2) | 3]
+U: H = fermata
+%
+M:C
+L:1/4
+Q:1/2=58
+K:Ab
+%
+[V:1] C  | F  F  A  B  | A  F  E  C  | F  F  A  B  | 
+[V:2] C  | F  F  E  E  | C  C  C  C  | F  F  E  E  | 
+w: There was a star in Da- vid's land, In Da- vid's land ap- 
+[V:3] C, | F, F, A, G, | A, F, E, C, | F, F, A, G, | 
+%
+[V:1] A2  z A/B/   | c c/B/  c C  | A2  B  A/B/   | c c B/A/   G  | F2  z |]
+[V:2] C2  x A/B/   | c c/B/  c C  | A2  B  A/G/   | F F E      E  | C2  x |]
+w: peared; And_ in King_ Her- od's cham- ber So_ bright it did shine there.
+[V:3] A,2 z A,/B,/ | C C/B,/ C C, | A,2 B, A,/B,/ | C C B,/A,/ G, | F,2 z |]
+%
+%%vskip 0.8cm
+%
+W: 1. There was a star in David's land, 
+W:    In David's land appeared, 
+W:    And in King Herod's chamber, 
+W:    So bright it did shine there. 
+W:    
+W: 2. The Wise Men, they soon spied it, 
+W:    And told the King a-nigh, 
+W:    A Princely Babe was born that night, 
+W:    No King shall e'er destroy. 
+W:    
+W: 3. "If this be the truth," King Herod said, 
+W:    "That thou hast told to me, 
+W:    This roasted cock that lies in the dish, 
+W:    Shall crow full senses three." 
+W:    
+W: 4. O the cock soon thrustened and feathered well, 
+W:    By the work of God's own hand, 
+W:    And he did crow full senses three, 
+W:    In the dish where he did stand! 
+
+X:19
+T:Lo, How a Rose E'er Blooming
+O:Cologne, 1599
+C:Setting by Michael Praetorius, 1609
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+M:C
+L:1/4
+K:F
+%
+[V:1] c2  | c  c d c | c2 A2 | B2 A G- |  G    F2 E | 
+[V:2] A2  | A  F F F | E2 D2 | D2 C C  | (D>B, C) C | 
+w: 1.~Lo, how a Rose e'er bloom- ing, From ten- der * stem * hath
+w: 2.~I- sa- iah had for- told it, The Rose I *  have * in
+w: 3.~This Flow'r, whose fra- grance ten- der, With sweet- ness * fills * the
+[V:3] c'2 | c' a b a | g2 f2 | f2 a c' | (b   a2) g | 
+[V:4] f2  | f f b f  | c2 d2 | B2 f e  |  d2     c2 | 
+%
+[V:1] HF2 c2  | c  c d c | c2 A2 | B2 A G- | 
+[V:2] HC2 A2  | A  F F F | E2 D2 | D2 C C  | 
+w: sprung, Of Jes- se's lin- eage com- ing As men of
+w: mind; With Ma- ry we be- hold it, The vir- gin
+w: air, Dis- pels with glo- rious splen- dor The dark- ness
+[V:3] Ha2 c'2 | c' a b a | g2 f2 | f2 a c' | 
+[V:4] HF2 f2  | f  f b f | c2 d2 | B2 f e  | 
+%
+[V:1]  G F2    E | F2 z A  | G E F  D  |  C2      z c | 
+[V:2] (D>A, C) C | C2 z F  | D C C =B, | (C/D/ E) z E | 
+w: * old * have sung! It came a Flow'r- et bright__ A-
+w: * moth- * er kind. To show God's love a- right__ She
+w: * ev- * 'ry- where. True Man, yet ver- y God,__ From
+[V:3] (b a2)   g | a2 z c' | b a a  g  |  g2      z g | 
+[V:4]  d2     c2 | F2 z f  | g a f  g  |  c2      z c | 
+%
+[V:1] c c d c | c2  A2 | B2 A G- |  G   F2 E | F4 |]
+[V:2] G F F F | E2  D2 | D2 F D  | (E F G) C | C4 |]
+w: mid the cold of win- ter, When half spent_ was * the night.
+w: bore to us a Sav- ior When half spent_ was * the night.
+w: sin and death He saves us And ligh- tens_ ev- * 'ry load.
+[V:3] g a b a | g2 ^f2 | g2 c' b |  a2  g2   | a4 |]
+[V:4] e f B f | c2  d2 | G2 A  B |  c2  c2   | F4 |]
+%
+%%vskip 0.8cm
+%
+W: 1. Lo, how a Rose e'er blooming, 
+W:    From tender stem hath sprung, 
+W:    Of Jesse's lineage coming 
+W:    As men of old have sung! 
+W:    It came a Flow'ret bright 
+W:    Amid the cold of winter, 
+W:    When half spent was the night.
+W: 
+W: 2. Isaiah had fortold it, 
+W:    The Rose I have in mind; 
+W:    With Mary we behold it, 
+W:    The virgin mother kind. 
+W:    To show God's love aright 
+W:    She bore to us a Savior 
+W:    When half spent was the night.
+W: 
+W: 3. This Flow'r, whose fragrance tender, 
+W:    With sweetness fills the air, 
+W:    Dispels with glorious splendor 
+W:    The darkness ev'rywhere. 
+W:    True Man, yet very God, 
+W:    From sin and death He saves us 
+W:    And lightens ev'ry load.
+
+X:20
+T:Macaronic Carol
+C:Words and music by Ajemian and Newcomb
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+K:C
+%
+[V:1] "SPRITELY" (c B) A | (G E) G | (A c) B | (A2  G)  | "NUMBLY"E E D  | 
+[V:2] (E B)  F | (E C) E | (F A) G | (F2  E)  | C C B, | 
+w: Hear_ us come_ through fields_ of snow._ Pe- des fri-
+w: Mas_ ter mis_ tress, chil_ dren, pets._ * * *
+w: Branch- es and hous- es are hung_ with white._ * * *
+[V:3] g2 c' | (c' g) c' |  a2   b | (a>b c') | e e g  | 
+[V:4] c2 c  | (e  c) g  | (c f) d | (c2  c)  | A A B  | 
+%
+[V:1] (E>G)  F | E3- | E3 | "BRIGHTLY"(F A) A | (A G) G  | (E>D)  C  | G3  | 
+[V:2] (C B,) D | C3- | C3 | (C F) F | (F D) E  | (C B,) A, | B,3 | 
+w: gi_ di sunt._ Sing_ ing Christ_ mas cheer_ i- o.
+w: * * *  * *    The more it snows the more joy- ful we get.
+w: * * *  * *    Mit- tens a- glow_ with can_ dle- light. 
+[V:3]  a2    a | a3- | a3 |  a2   f | (f g) c' |  g2    g  |  g3    | 
+[V:4] (e d)  d | e3- | e3 | (f c) c | (c d) e  | (c B)  c  | (d2 e) | 
+%
+[V:1] "CON FAME"A2 A | (c A) G  | A3-  | A2  x |  "VIVE VOCE"A2   B | (c G) G | 
+[V:2] E2 C | (E D) B, | E3-  | E2  z | (F E) D |  E2   C | 
+w: Et e- su_ ri- o._ Lis_ ten to our
+w: *  *  * * *   * * Join_ us as we
+w: *  *  * * *   * * Deck_ the halls for
+[V:3] a2 e |  f2   g  | c'3- | c'2 x | (f a) g |  g2   e | 
+[V:4] e2 c |  d2   e  | e3-  | e2  z |  c2   d | (e c) c | 
+%
+[V:1] (A c) A | G3 | "DOGGEDLY"E  E  E  | ^F2 G |  E3-  |  E3  | "RUDDILY"F A A | 
+[V:2] (F A) F | D3 | B, B, B, |  D2 C |  B,3- |  B,3 | C F F | 
+w: glad_ some song. Pe- des de- fes- si sunt._ We've tra- velled
+w: cel_ a brate.    *   *   *   *    *  * *    We waits, we
+w: la_ we sing.     *   *   *   *    *  * *    Once_ a 
+[V:3]  a2   a | b3 | g  g  g  |  a2 g | ^f3-  | ^f3  | a a f | 
+[V:4] (f d) f | g3 | e  e  e  |  d2 c |  B3-  |  B3  | c c c | 
+%
+[V:1] (A G) G | (E>D)  C  |  G3    | "LONGINGLY"E2 E | D  C  B, | A,3- | A,3 | 
+[V:2] (F D) C | (C B,) A, |  D3    | C2 C | B, A, G, | A,3- | A,3 | 
+w: far_ and sung_ so long.    Do- mum ir- e vo- lo._
+w: cir_ cum- am_ bu- late.    *   *   *   * *   * *
+w: year_ while car_ ol- ling. *   *   *   * *   * *
+[V:3] (f g) g |  g2    g  |  b3    | a2 e | f  e  e  | e3-  | e3  | 
+[V:4] (c d) e | (c B)  c  | (d2 e) | e2 A | d  e  B  | A3-  | A3  | 
+%
+%%vskip 0.8cm
+%
+W: 1. Hear us come through fields of snow.
+W:       Pedes frigidi sunt. [My feet are cold]
+W:    Singing Christmas cheerio.
+W:       Et esurio. [And I'm hungry]
+W:    Listen to our gladsome song.
+W:       Pedes defessi sunt. [My feet are tired]
+W:    We've travelled far and sung so long.
+W:       Domum ire volo. [I want to go home]
+W: 
+W: 2. Master, Mistress, children, pets.
+W:       Pedes frigidi sunt. 
+W:    The more it snows, the more joyful we get.
+W:       Et esurio. 
+W:    Join us as we celebrate.
+W:       Pedes defessi sunt.
+W:    We waits, we circumambulate.
+W:       Domum ire volo. 
+W: 
+W: 3. Branches and houses are hung with white.
+W:       Pedes frigidi sunt. 
+W:    Mittens aglow with candlelight.
+W:       Et esurio. 
+W:    Deck the halls, for la we sing.
+W:       Pedes defessi sunt.
+W:    Once a year while carolling.
+W:       Domum ire volo. 
+
+X:21
+T:O Little One Sweet
+C:Old German melody
+C:harmonized by J.S. Bach
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+K:Bb
+%
+[V:1]  B       |  B3/ A/    B | c2         A | B A  G | F2 d | c2     c      |
+[V:2]  D       | (D/=E/) ^F G | (G/=F/ =E) F | F>D =E | C2 F | (F>_E) (D/A/) |
+w: 1.\240\240O lit_ tle one sweet,__ O lit- tle one mild, Thy fa_ ther's_
+w: 2.\240\240O lit_ tle one sweet,__ O lit- tle one mild, With joy_ thou_
+w: 3.\240\240O lit_ tle one sweet,__ O lit- tle one mild, In thee_ love's_
+w: 4.\240\240O lit_ tle one sweet,__ O lit- tle one mild, Help us_ to_
+[V:3]  B,      | B, D  D         | C2           C  | D>D   (G,/C/) | A,2 B,  | (B, A,)      D   |
+[V:4] (B,/A,/) | G, D, (G,/=F,/) | (=E,/D,/ C,) F, | D, B,, C,     | F,2 B,, | (F,/=E,/ F,) ^F, |
+%
+[V:1] B  B  c | (F G) A | B2 d | e2       e | c2  c     |
+[V:2] (A>G) F | F2    E | D2 F | (E/F/ G) G | F2 (F/G/) |
+w: pur- pose thou hast ful- filled; Thou cam'st__ from heav'n to_
+w: hast_ the whole world filled; Thou cam__ est here from_
+w: beau- ties are all dis- tilled; Then light__ in us thy_
+w: do_ as thou hast willed. Lo, all__ we have be_
+[V:3] D            E>E  |  D2      C | B,2   B,      | (B,>C)  B, | (B, A,/B,/) C |
+[V:4] ((G,/^F,/) G,) A, | (B, E,) F, | B,,2 (B,/A,/) | (G, E,) C, |  F,2 (A,/G,/) |
+%
+[V:1] d2        d      | B2 B | c2        c | A2        A | B2           B |
+[V:2] (_A B/A/) (G/F/) | G2 G | (G =E/F/) G | (G F/=E/) F | (B,/C/D/_E/) F |
+w: mor__ tal_ ken, E- qual__ to be__ with us___ poor
+w: heav'n's__ do_ main, To bring__ men com__ fort in___ their
+w: love's__ bright_ flame, That we__ may give__ thee back___ the
+w: longs__ to_ thee! Ah, keep__ us in__ our feal____
+[V:3] B,2     _A, | G,2     D    | C2       C  | C2   C        | F,2      B, |
+[V:4] (F, D,) B,, | E,2 (G,/E,/) | (=E, C,) E, | F,2 (F,/_E,/) | (D, B,,) D, |
+%
+[V:1] G2    c | F      G  A | B2 d | c>B      A | B2 |]
+[V:2] (F E) E | (D/C/) B, C | F2 F | (G/F/) E>E | D2 |]
+w: men,_ O lit_ tle one sweet, O lit_ tle one mild.
+w: pain,_ O lit_ tle one sweet, O lit_ tle one mild.
+w: same,_ O lit_ tle one sweet, O lit_ tle one mild.
+w: ty!_ O lit_ tle one sweet, O lit_ tle one mild.
+[V:3] B,2 A, | (B,/A,/) G,       F,      | F,2       B,       | (B, E/D/) C  | B,2  |]
+[V:4] E,2 C, | D,      (E,/D,/) (E,/C,/) | D, (E,/D,/C,/B,,/) | E,  C,    F, | B,,2 |]
+w: *** *** ** O___ lit- tle one mild.
+%
+%%vskip 0.8cm
+%
+W: 1. O little one sweet, O little one mild,
+W:    Thy Father's purpose thou hast fulfilled;
+W:    Thou cam'st from heav'n to mortal ken,
+W:    Equal to be with us poor men,
+W:    O little one sweet, O little one mild.
+W:
+W: 2. O little one sweet, O little one mild,
+W:    With joy thou hast the whole world filled;
+W:    Thou camest here from heav'n's domain,
+W:    To bring men comfort in their pain,
+W:    O little one sweet, O little one mild.
+W:
+W: 3. O little one sweet, O little one mild,
+W:    In thee love's beauties are all distilled,
+W:    Then light in us thy love's bright flame,
+W:    That we may give thee back the same,
+W:    O little one sweet, O little one mild.
+W:
+W: 4. O little one sweet, O little one mild,
+W:    Help us to do as thou hast willed,
+W:    Lo, all we have belongs to thee!
+W:    Ah, keep us in our fealty!
+W:    O little one sweet, O little one mild.
+
+X:22
+T:Orientis Partibus
+C:anon. medieval carol
+C:English words, Susan Cooper
+%
+M:2/4
+L:1/4
+Q:120
+K:D %Transposed from F
+%
+D/E/ F/D/ | E/=C/ D | A/A/ B/G/ | A/A/ F |
+w: O- ri- en- tis par- ti- bus ad- ven- ta- vit a- si- nus,
+%
+F/E/ G/F/ | E/D/ F | A/G/ F/D/ | E/=C/ D ||
+w: pul- cher et for- tis- si- mus, Sar- ci- nis ap- tis- si- mus.
+%
+D/E/ F/E/ | D z |]
+w: Hez, Sir As- nes, hez!
+%
+%%vskip 0.8cm
+%
+W: 1. Orientis partibus,
+W:    Adventavit asinus,
+W:    Pulcher et fortisimus,
+W:    Sarcinis aptisimus.
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 2. From the East the donkey came,
+W:    Stout and strong as twenty men;
+W:    Ears like wings and eyes like flame,
+W:    Striding into Bethlehem.
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 3. Faster than the deer he leapt,
+W:    With his burden on his back;
+W:    Though all other creatures slept,
+W:    Still the ass kept on his track.
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 4. Still he draws his heavy load,
+W:    Fed on barley and rough hay;
+W:    Pulling on along the road -
+W:    Donkey pull our sins away!
+W:    Hez, Sir Asnes, Hez!
+W:
+W: 5. Wrap him now in cloth of gold;
+W:    All rejoice who see him pass;
+W:    Mirth inhabit young and old
+W:    On this feast day of the ass.
+W:    Hez, Sir Asnes, Hez!
+W:
+
+X:23
+T:Over the Hill and Over the Dale
+C:Piae Cantiones, 1582 
+C:English words by J.M. Neale
+%
+M:3/4
+L:1/4
+Q:3/4=60
+K:A dorian
+%
+E F A | (E F) A | G F G | E3 | (G A) B | (B A) G | A A2- | A3 |
+w: 1.~O- ver the hill_ and o- ver the dale, Came_ three kings_ to- ge- ther,_ 
+%
+(E F) A | (E F) A | (G F) G | E3 | (G A) B | (B A) G | A A2- | A3 ||
+w: Car_ ing nought_ for snow_ and hail, Cold_ and wind_ and wea- ther._ 
+%
+A2 e | e2 d | (e d) c | B3 | A2 B | ((c B) A) | (G F) G | E3 | 
+w: Now on Per- sia's san_ dy plain, Now where Ti_gris swells_ with rain,
+%
+(G A) B | (B A) G | A A2- | A3 | A2 e | (e2 d) | (e d) c | B3 | 
+w: They_ their ca_ mels te- ther._ Now through Sy- rian lands_ they go,
+%
+A2 B | ((c B) A) | (G F) G | E3 | (G A) B | (B A) G | A A2- | A3 |] 
+w: Now through Mo_ ab, faint_ and slow, Now_ o'er E_dom's hea- ther._
+%
+%%vskip 0.8cm
+%
+W: 1. Over the hill and over the dale 
+W:    Came three kings together, 
+W:    Caring nought for snow and hail, 
+W:    Cold and wind and weather. 
+W:    Now on Persia's sandy plain, 
+W:    Now where Tigris swells with rain, 
+W:    They their camels tether. 
+W:    Now through Syrian lands they go, 
+W:    Now through Moab, faint and slow, 
+W:    Now o'er Edom's heather. 
+W:    
+W: 2. Over the hill and over the dale 
+W:    Each king bears a present, 
+W:    Wise men go, a child to hail, 
+W:    Monarchs seek a peasant. 
+W:    And in front, a star proceeds, 
+W:    Over rocks and rivers leads, 
+W:    Shines with beams incessant. 
+W:    Therefore onward, onward still, 
+W:    Ford the stream and climb the hill; 
+W:    Love makes all things pleasant. 
+W:    
+W: 3. He is God ye go to meet, 
+W:    Therefore incense proffer; 
+W:    He is King ye go to greet, 
+W:    Gold is in your coffer. 
+W:    Also, man, he comes to share 
+W:    Every woe that man can bear, 
+W:    Tempter, railer, scoffer. 
+W:    Therefore now, against the day, 
+W:    In the grave when Him they lay, 
+W:    Myrrh ye also offer. 
+W:    
+W: 4. Over the hill and over the dale 
+W:    Riding east together, 
+W:    Caring nought for snow and hail, 
+W:    Nought for wind and weather. 
+W:    Warned by God from Herod's door 
+W:    Each king turns for home once more, 
+W:    Hearts and footsteps lighter. 
+W:    Now behind them shines the star 
+W:    Which they followed from afar, 
+W:    Shining ever brighter. 
+W: 
+
+X:24
+T:Please to See the King
+T:Our King
+C:Traditional Welsh
+C:arr. John Bromka, 1991
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+Q:84
+K:Bb
+%
+[V:1] (B/G/) |  F       B     c | B2 B/ G/   | F (B/c/)  (d/B/) |  c2   B/ c/ |
+[V:2] (D/C/) |  D      (D/E/) F | F2 F/ E/   | D  F       G     |  C2   D/ E/ |
+w: Joy,_ health, love_ and peace be all here in this place. By your
+[V:3] (b/f/) | (d'/c'/) b     a | b2 d'/ c'/ | b (d'/c'/) b     |  a2   g/ g/ |
+[V:4]  B     |  f       g     f | d2 f/  e/  | d (b/a/)  (g/e/) | (f c) d/ e/ |
+w: Joy, health, love and peace be all here in_ this_ place._ By your
+%
+[V:1] (d>c)  (e/d/)  | [M:4/4] [L:1/4] c  G- G (G/F/)  | [M:3/4] [L:1/4] (G/A/) (B/d/) (c/A/) | B2 |]
+[V:2]  F- F   E      | [M:4/4] [L:1/4] E  E- E  D      | [M:3/4] [L:1/4] (E/F/) G    (A/F/) | B2 |]
+w: leave_ we will sing_ con- cern_ ing our_ King.
+[V:3]  b2    (e'/b/) | [M:4/4] [L:1/4] c' b- b (b/a/)  | [M:3/4] [L:1/4] c'   b    a    | b2 |]
+[V:4] (f>e)   g      | [M:4/4] [L:1/4] e  b- b (b/d/)  | [M:3/4] [L:1/4] (c/f/) e    f    | B2 |]
+w: leave_ we will sing_ con_ cern_ ing our King.
+%
+%%vskip 0.8cm
+%
+W: 1. Joy, health, love and peace be all here in this place.
+W:    By your leave we will sing concerning our King.
+W:
+W: 2. Our King is well dressed, in silks of the best,
+W:    In ribbons so rare, no king can compare.
+W:
+W: 3. We have travelled many miles, over hedges and stiles,
+W:    In search of our King, unto you we bring.
+W:
+W: 4. We have powder and shot, to conquer the lot.
+W:    We have cannon and ball, to conquer them all.
+W:
+W: 5. Old Christmas is past, Twelfth Night is the Last.
+W:    And we bid you adieu, great joy to the new.
+
+X:25
+T:Rolling Downward
+T:Angel Song, The
+C:Robert Lowry
+%
+M:12/8
+L:1/8
+Q:3/8=100
+K:F %Transposed from A
+%
+(CD) E | F3 F6 A2 F | A3 A6 F2 G |
+w: 1.~Roll_ ing down- ward, through the mid- night, Comes a
+w: 2.~Won- der ing shep- herds see the glo- ry, Hear the
+w: 3.~Christ_ the Sav- ior, God's A- noint- ed, Comes to
+%
+A3 c3 c2 A (AG) F | G6- G3 (CD) E | F3 F6 A2 F |
+w: glo-rious burst of hea- ven- ly song_ 'Tis_ a cho- rus full of
+w: word the shin- ing ones_ de- clare;_ At_ the man- ger fall in
+w: earth our fear- ful debt_ to pay._ Man_ of sor- rows, and re-
+%
+A3 A6 F2 G | G3 A3 G2 FE2 D | C6- C3 ||
+w: sweet- ness, And the sing- ers are an an- gel throng_
+w: wor- ship, While the mu- sic fills the qui- v'ring air_
+w: ject- ed, Lamb of God, that takes our sin a- way_
+%
+"Chorus"(CE) G | B3 B6 (BA) G | A3 A6 (AG) F |
+w: Glo_ ry, glo- ry in_ the high- est, On_ the
+%
+G3 G3 G2 F E2 F | G6- G3 (CD) E | F3 F6 (FG) A |
+w: earth good- will and peace to men_ Down_ the a- ges sound_ the
+%
+B3 B6 (Bc) d | c3 A3 A3- A2 G | F6 - F3 |]
+w: e- cho: Let_ the glad earth shout_ a- gain._
+%
+%%newpage
+%
+W: 1. Rolling downward, through the midnight,
+W: Comes a glorious burst of heavenly song;
+W: 'Tis a chorus full of sweetness,
+W: And the singers are an angel throng.
+W:
+W: Chorus:
+W: Glory! glory in the highest!
+W: On the earth goodwill and peace to men!
+W: Down the ages sound the echo;
+W: Let the glad earth shout again!
+W:
+W: 2. Wond'ring shepherds see the glory,
+W: Hear the word the shining ones declare;
+W: At the manger fall in worship,
+W: While the music fills the quivering air.
+W:
+W: 3. Christ the Savior, God's Anointed,
+W: Comes to earth our fearful debt to pay.
+W: Man of sorrows, and rejected,
+W: Lamb of God, that takes our sin away.
+
+X:26
+T:Sherburne C. M.
+T:While Shepherds Watched Their Flocks
+C:Music by Daniel Read, 1793
+C:Text by Nahum Tate & Nicholas Brady, Supplement to the New Version of the Psalms , Ireland, 1700
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble
+V:4 clef=bass
+%
+%%staves [1 | 2 | 3 | 4]
+M:4/4
+L:1/4
+K:C % Transposed from D
+Q:150
+%
+[V:1] G2  G  E  | F/G/ A/B/ c c | c3   c   | B     G  A  G  | G3   ||
+w: 1.~While shep- herds watched - their - flocks by night, All seat- ed on the ground.
+w: 2.~All glo- ry be - to - God on high, And to the earth be peace.
+[V:2] C2  C  C  | C    C    C E | E3   E   | E     C  B,  C  | D3   ||
+w: 1.~While shep- herds watched their flocks by night, All seat- ed on the ground.
+w: 2.~All glo- ry be to God on high, And to the earth be peace.
+[V:3] G2  E  C  | A    A    A G | A3   c   | G/>E/ C  F  E  | D3   ||
+w: 1.~While shep- herds watched their flocks by night, All seat_ ed on the ground.
+w: 2.~All glo- ry be to God on high, And to_ the earth be peace.
+[V:4] C,2 C, C, | F,  F, F, C,  | A,,3 A,, | E,    E, D, C, | G,,3 ||
+w: 1.~While shep- herds watched their flocks by night, All seat- ed on the ground.
+w: 2.~All glo- ry be to God on high, And to the earth be peace.
+%
+[V:1] |: z   | z4          | z4              | z3    G |
+w: The
+w: Good
+[V:2] |: z   | z4          | z3          G,  | C C E C |
+w: The an- gel of the
+w: Good will hence- forth from
+[V:3] |: z   | z3       G  | c   c   e   c   | A A A G |
+w: The an- gel of the Lord came down, And
+w: Good will hence- forth from heav'n to men, Be-
+[V:4] |: G,, | C, C, E, C, | A,, A,, A,, G,, | C,4-    |
+w: The an- gel of the Lord came down, And glo
+w: Good will hence- forth from heav'n to men, Be- gin
+%
+[V:1] c  c  e  c  | A   A   A   G  | A3    A | A A A G/F/ |
+w: an- gel of the Lord came down, And glo- ry shown a- round, And_
+w: will hence- forth from heav'n to men, Be- gin and nev- er cease, Be_
+[V:2] A, A, A, G, | C3          E  | D D D D | D4-        |
+w: Lord came down, And glo- ry shown a- round, And glo
+w: heav'n to men, Be- gin and nev- er cease, Be- gin
+[V:3] c3       G  | E   E   E   G  | A3    F | D D D2     |
+w: glo- ry shown a- round, And glo- ry shown a- round,
+w: gin and nev- er cease. Be- gin and nev- er cease.
+[V:4] C,3      E, | A,, A,, A,, C, | D,4-    | D,3     D, |
+w: - ry shown a- round, And glo_ ry
+w: - and nev- er cease, Be- gin_ and
+%
+[V:1] G3      G | E E E2   | z3       E  | G  G  G  G  |
+w: glo- ry shown a- round. The an- gel of the
+w: gin and nev- er cease. Good will hence- forth from
+[V:2] D3      D | C C C2   | E2    E  E  | E  E  E  C  |
+w: - ry shown a- round. The an- gel of the Lord came
+w: - and nev- er cease. Good will hence- forth from  heav'n to
+[V:3] z3      G | A A A c  | G  G  G  C  | C3       C  |
+w: The an- gel of the Lord came down, And glo- ry
+w: Good will hence- forth from heav'n to men, Be- gin and
+[V:4] G, G, G,2 | z3    C, | C, C, C, C, | G, E, C, E, |
+w: shown a- round. The an- gel of the Lord came down, And
+w: nev- er cease. Good will hence- forth from heav'n to  men, Be-
+%
+[V:1] A A A c    | d3   B   | c c c2- | c3 :|
+w: Lord came down, And glo- ry shown a- round_
+w: heav'n to  men, Be- gin and nev- er cease_
+[V:2] D D D E/F/ | G3   F   | E4-     | E3 :|
+w: down, And glo_ ry shown a- round_
+w: men, Be- gin_ and nev- er cease_
+[V:3] F F F A    | D3   C   | G G G2- | G3 :|
+w: shown a- round, And glo- ry shown a- round_
+w: nev- er cease, Be- gin and nev- er cease_
+[V:4] D,3   C,   | G,,3 G,, | C,4-    | C,3 :|
+w: glo- ry shown a- round_
+w: gin and nev- er cease_
+
+X:27
+T:Somerset Wassail
+C:traditional English
+M:C
+L:1/4
+K:Eb
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+%%staves 1
+%
+E | (E c) B A | G2 (F E) | (E F) G A |
+w: 1.~Was- sail_ and was- sail all_ o_ ver the
+%
+B3 E | (E c) B A | G2 F E | (E F) G A |
+w:  town. The cup_ it is white and the ale_ it is
+%
+B3 G | (c A) _d c | B2 G G | (A G) F G |
+w: brown; The cup_ it is made of the good_ ash- en
+%
+A2 (G A) | (B e) c A | B2 A G | (F E) (G F) |
+w: tree, And_ so_ is the malt of the best_ bar_
+%
+%%staves [(1 2) | (3 4)]
+%
+[V:1] E2 | "Chorus" B, B, | E2  F2   | B,2 B, B, | E2  (F G) | A2 G A |
+[V:2] E2 |          B, B, | B,2 C2   | B,2 B, B, | B,2  C- C | C2 E D |
+w: ley. For it's your was- sail and it's our was_ sail, And it's
+w: *    No_ harm, boys, harm; no_ harm, boys,_ harm; And a
+[V:3] z2 |          b  b  | g2 (a f) | b2  d  d  | e2  (a g) | f2 b b |
+[V:4] z2 |          B  B  | e2  A2   | B2  A  A  | G2  (A c) | f2 e e |
+%
+[V:1] (B e) c A | B2    A G | (F E)  G F | E2 z |]
+[V:2] (E G) E E | (F G) E E | (C B,) E D | E2 x |]
+w: joy_ be to you,_ and a jol_ ly was sail.
+w: drop or two of ci_ der will do_ us no harm.
+[V:3]  b2   a a | (f b) e b | (f b)  b b | g2 z |]
+[V:4] (g e) A c | (d e) c B | (A G)  B B | e2 x |]
+%
+%%newpage
+%
+W: 1. Wassail and wassail all over the town.
+W:    The cup it is white and the ale it is brown;
+W:    The cup it is made of the good ashen tree,
+W:    And so is the malt of the best barley.
+W:    For it's your wassail and it's our wassail,
+W:    And it's joy be to you, and a jolly wassail.
+W:
+W: 2. O master and missus, are you all within?
+W:    Pray open the door and let us come in.
+W:    O master and missus a-sitting by the fire,
+W:    Pray think on us poor travelers, a traveling in the mire.
+W:    For it's your wassail and it's our wassail,
+W:    And it's joy be to you, and a jolly wassail.
+W:
+W: 3. O where is the maid with the silver-headed pin,
+W:    To open the door and let us come in?
+W:    O master and missus, it is our desire:
+W:    A good loaf and cheese, and a toast by the fire.
+W:    For it's your wassail and it's our wassail,
+W:    And it's joy be to you, and a jolly wassail.
+W:
+W: 4. There was an old man, and he had an old cow,
+W:    And how for to keep her he didn't know how;
+W:    He built up a barn for to keep his cow warm.
+W:    And a drop or two of cider will do us no harm.
+W:    No harm, boys, harm; no harm, boys, harm;
+W:    And a drop or two of cider will do us no harm.
+W:
+W: 5. The girt dog of Langport he burnt his long tail,
+W:    And this is the night we go singing wassail.
+W:    O master and missus now we must be gone;
+W:    God bless all in this house until we do come again.
+W:    For it's your wassail and it's our wassail,
+W:    And it's joy be to you, and a jolly wassail.
+
+X:28
+T:Wintertime
+C:Music: George Gershwin
+C:Words: Susan Galbraith and an angel throng
+C: - with apologies to Du Bose Heyward
+%
+M:C|
+L:1/4
+K:A %Transposed from D
+%
+"swing it"c A | c4- | c z B/>A/ B/>c/ A | F2 C2- | C z c A |
+w: Win- ter- time_ and a star is a-blaz- ing_ An- gels
+w: On Easter morn- ing you're go-ing to rise up sing- ing You'll roll
+%
+B/ B3/2- B2 | z A/>F/ A/>F/ A | G4- | G2 c/ c/ | c A c2 |
+w: sing- ing_ as the shep- herds draw nigh._ Oh, your dad- dy's God
+w: back that stone and you'll take to the sky._ Be- fore that morn- ing
+%
+z B/>A/ B/>c/ A | F2 C2- | C2 z C | E C/E/ F A | (c/ B3/2) A2 | (A F3) | z2 |]
+w: and your mom- ma's a vir- gin_ So hush lit- tle ba- by, don't_ you cry._
+w: you bet- ter get some dis- ci- ples, But watch out for Ju- das, that_ one's sly._
+%
+%%vskip 0.8cm
+%
+W: 1. Wintertime and a star is a-blazing,
+W:    Angels singing as the shepherds draw nigh.
+W:    Oh, your daddy's God and your momma's a virgin,
+W:    So hush little baby, don't you cry.
+W:
+W: 2. On Easter morning you're going to rise up singing.
+W:    You'll roll back that stone and you'll take to the sky.
+W:    Before that morning you better get some disciples,
+W:    But watch out for Judas, that one's sly.
+
+X:29
+T:Wren Song, The
+C:traditional Irish
+%
+M:6/8
+L:1/8
+K:F %Transposed from G
+%
+C | F2 F F2 F | F F F F2 F |
+w: The wren, the wren, the king of all birds, Saint
+%
+G2 F E2 F | G G A B2 B | c c c B B B |
+w: Ste- phen's Day was caught in the furze; Al- though he was lit- tle, his
+%
+A A A G2 G | F2 E D2 E | F F F F2 ||
+w: hon- or was great; Jump up me lads, and give us a treat!
+%
+"Chorus" C | F2 F G2 E | F3 z2 C | F2 F G2 E | F3 z3 |
+w: Hur- rah me boys, hur- rah! Hur- rah me boys, hur- rah!
+%
+C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |
+w: Knock at the knock- er, And ring at the bell,
+%
+C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |
+w: What will you give us for sing- ing so well?
+%
+c3 A2 B | c3 z3 | c3 A2 B | G3 z3 |
+w: Sing- ing so well, Sing- ing so well,
+%
+C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |]
+w: Give us a cop- per for sing- ing so well.
+%
+%%newpage
+%
+W: 1. The wren, the wren, the king of all birds,
+W:    Saint Stephen's Day was caught in the furze,
+W:    Although he was little, his honor was great,
+W:    Jump up, me lads, and give us a treat!
+W:
+W:    CHORUS
+W:    Hurrah, me boys, hurrah!
+W:    Hurrah, me boys, hurrah!
+W:    Knock at the knocker and ring at the bell,
+W:    What will you give us for singing so well?
+W:    Singing so well, singing so well,
+W:    Give us a copper for singing so well.
+W:
+W: 2. We followed the wren three miles or more,
+W:    Three miles or more, three miles or more,
+W:    Through hedges and ditches and heaps of snow,
+W:    At six o'clock in the morning.
+W:
+W: 3. Rolley, Rolley, where's your nest?
+W:    It's in the bush that I love best,
+W:    It's in the bush, the holly tree,
+W:    Where all the boys do follow me.
+W:
+W: 4. As I went out to hunt and all,
+W:    I met a wren upon the wall,
+W:    Up with me wattle and gave him a fall,
+W:    And brought him here to show you all.
+W:
+W: 5. I have a little box under me arm,
+W:    A tuppence or penny'll do it no harm,
+W:    For we are the boys that came your way,
+W:    To bring in the wren on Saint Stephen's Day!
+

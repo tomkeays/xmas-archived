@@ -1,0 +1,54 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Please to See the King
+T:Our King
+C:Traditional Welsh
+C:arr. John Bromka, 1991
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+Q:84
+K:Bb
+%
+[V:1] (B/G/) |  F       B     c | B2 B/ G/   | F (B/c/)  (d/B/) |  c2   B/ c/ |
+[V:2] (D/C/) |  D      (D/E/) F | F2 F/ E/   | D  F       G     |  C2   D/ E/ |
+w: Joy,_ health, love_ and peace be all here in this place. By your
+[V:3] (b/f/) | (d'/c'/) b     a | b2 d'/ c'/ | b (d'/c'/) b     |  a2   g/ g/ |
+[V:4]  B     |  f       g     f | d2 f/  e/  | d (b/a/)  (g/e/) | (f c) d/ e/ |
+w: Joy, health, love and peace be all here in_ this_ place._ By your
+%
+[V:1] (d>c)  (e/d/)  | [M:4/4] [L:1/4] c  G- G (G/F/)  | [M:3/4] [L:1/4] (G/A/) (B/d/) (c/A/) | B2 |]
+[V:2]  F- F   E      | [M:4/4] [L:1/4] E  E- E  D      | [M:3/4] [L:1/4] (E/F/) G    (A/F/) | B2 |]
+w: leave_ we will sing_ con- cern_ ing our_ King.
+[V:3]  b2    (e'/b/) | [M:4/4] [L:1/4] c' b- b (b/a/)  | [M:3/4] [L:1/4] c'   b    a    | b2 |]
+[V:4] (f>e)   g      | [M:4/4] [L:1/4] e  b- b (b/d/)  | [M:3/4] [L:1/4] (c/f/) e    f    | B2 |]
+w: leave_ we will sing_ con_ cern_ ing our King.
+%
+%%vskip 0.8cm
+%
+W: 1. Joy, health, love and peace be all here in this place.
+W:    By your leave we will sing concerning our King.
+W:
+W: 2. Our King is well dressed, in silks of the best,
+W:    In ribbons so rare, no king can compare.
+W:
+W: 3. We have travelled many miles, over hedges and stiles,
+W:    In search of our King, unto you we bring.
+W:
+W: 4. We have powder and shot, to conquer the lot.
+W:    We have cannon and ball, to conquer them all.
+W:
+W: 5. Old Christmas is past, Twelfth Night is the Last.
+W:    And we bid you adieu, great joy to the new.

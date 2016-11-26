@@ -1,0 +1,112 @@
+%%footer	"$T	$P	$D"
+X:1
+T:Over the Hill and Over the Dale
+C:Piae Cantiones, 1582 
+C:English words by J.M. Neale
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:3/4
+L:1/4
+Q:3/4=60
+K:Fdor
+%
+C D F | (C D) F | E D E | C3 | (E F) G | (G F) E | F F2- | F3 |
+w:1.~O- ver the hill_ and o- ver the dale, Came_ three kings_ to- ge- ther,_
+w:2.~O- ver the hill_ and o- ver the dale, Each_ king bears_ a pre- sent,_
+w:3.~He_ is God_ ye go_ to meet, There_ fore in_ cense prof- fer;_ 
+w:4.~O- ver the hill_ and o- ver the dale, Ri_ ding east_ to- ge- ther,_ 
+%
+(C D) F | (C D) F | (E D) E | C3 | (E F) G | (G F) E | F F2- | F3 ||
+w:Car_ ing nought_ for snow_ and hail, Cold_ and wind_ and wea- ther._
+w:Wise_ men go,_ a child_ to hail, Mon_ archs seek_ a pea- sant._
+w:He_ is King_ ye go_ to greet, Gold_ is in_ your cof- fer._
+w:Car_ ing nought_ for snow_ and hail, Nought_ for wind_ and wea- ther._ 
+%
+F2 c | c2 B | (c B) A | G3 | F2 G | ((A G) F) | (E D) E | C3 | 
+w:Now on Per- sia's san_ dy plain, Now where Ti_gris swells_ with rain,
+w:And in front, a star_ pro- ceeds, O- ver rocks_ and ri_ vers leads,
+w:Al- so, man, he comes_ to share, E- very woe_ that man_ can bear,
+w:Warned by God from Her_ od's door, Each king turns_ for home_ once more, 
+%
+(E F) G | (G F) E | F F2- | F3 | F2 c | (c2 B) | (c B) A | G3 | 
+w:They_ their ca_ mels te- ther._ Now through Sy- rian lands_ they go,
+w:Shines_ with beams_ in- ces- sant._ There- fore on- ward, on_ ward still,
+w:Temp_ ter, rail_ er, scof- fer._ There- fore now, a- gainst_ the day,
+w:Hearts_ and foot_ steps light- er._ Now be- hind them shines_ the star, 
+%
+F2 G | ((A G) F) | (E D) E | C3 | (E F) G | (G F) E | F F2- | F3 |] 
+w:Now through Mo_ ab, faint_ and slow, Now_ o'er E_dom's hea- ther._
+w:Ford the stream_ and climb_ the hill; Love_ makes all_ things plea- sant._
+w:In the grave_ when Him_ they lay, Myrrh_ ye al_ so of- fer._
+w:Which they fol_ lowed from_ a- far, Shin_ ing e_ ver bright- er._ 
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+%%Tune transposed to F dorian (key relative to E flat). Originally in A dorian.
+%%We decided to sing verses 2-4.
+%%endtext
+%
+%%newpage
+%
+W:1. Over the hill and over the dale 
+W:Came three kings together, 
+W:Caring nought for snow and hail, 
+W:Cold and wind and weather. 
+W:Now on Persia's sandy plain, 
+W:Now where Tigris swells with rain, 
+W:They their camels tether. 
+W:Now through Syrian lands they go, 
+W:Now through Moab, faint and slow, 
+W:Now o'er Edom's heather. 
+W:
+W:2. Over the hill and over the dale 
+W:Each king bears a present, 
+W:Wise men go, a child to hail, 
+W:Monarchs seek a peasant. 
+W:And in front, a star proceeds, 
+W:Over rocks and rivers leads, 
+W:Shines with beams incessant. 
+W:Therefore onward, onward still, 
+W:Ford the stream and climb the hill; 
+W:Love makes all things pleasant. 
+W:
+W:3. He is God ye go to meet, 
+W:Therefore incense proffer; 
+W:He is King ye go to greet, 
+W:Gold is in your coffer. 
+W:Also, man, he comes to share 
+W:Every woe that man can bear, 
+W:Tempter, railer, scoffer. 
+W:Therefore now, against the day, 
+W:In the grave when Him they lay, 
+W:Myrrh ye also offer. 
+W:
+W:4. Over the hill and over the dale 
+W:Riding east together, 
+W:Caring nought for snow and hail, 
+W:Nought for wind and weather. 
+W:Warned by God from Herod's door 
+W:Each king turns for home once more, 
+W:Hearts and footsteps lighter. 
+W:Now behind them shines the star 
+W:Which they followed from afar, 
+W:Shining ever brighter. 
+W:
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+%%Over the Hill and Over the Dale is by J.M. Neale, a setting
+%%to a tune from the Piae Cantiones, a book of Latin carols
+%%compiled in Finland in 1582. Neale composed English texts
+%%for several of them, Good King Wenceslas being the
+%%best-known.
+%%[Tune and notes transcribed from Nowell Sing We Clear.]
+%%endtext

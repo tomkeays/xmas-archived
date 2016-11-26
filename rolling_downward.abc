@@ -1,0 +1,63 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Rolling Downward
+T:Angel Song, The
+C:Robert Lowry
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:12/8
+L:1/8
+Q:3/8=100
+K:F %Transposed from A
+%
+(CD) E | F3 F6 A2 F | A3 A6 F2 G |
+w: 1.~Roll_ ing down- ward, through the mid- night, Comes a
+w: 2.~Won- der ing shep- herds see the glo- ry, Hear the
+w: 3.~Christ_ the Sav- ior, God's A- noint- ed, Comes to
+%
+A3 c3 c2 A (AG) F | G6- G3 (CD) E | F3 F6 A2 F |
+w: glo-rious burst of hea- ven- ly song_ 'Tis_ a cho- rus full of
+w: word the shin- ing ones_ de- clare;_ At_ the man- ger fall in
+w: earth our fear- ful debt_ to pay._ Man_ of sor- rows, and re-
+%
+A3 A6 F2 G | G3 A3 G2 FE2 D | C6- C3 ||
+w: sweet- ness, And the sing- ers are an an- gel throng_
+w: wor- ship, While the mu- sic fills the qui- v'ring air_
+w: ject- ed, Lamb of God, that takes our sin a- way_
+%
+"Chorus"(CE) G | B3 B6 (BA) G | A3 A6 (AG) F |
+w: Glo_ ry, glo- ry in_ the high- est, On_ the
+%
+G3 G3 G2 F E2 F | G6- G3 (CD) E | F3 F6 (FG) A |
+w: earth good- will and peace to men_ Down_ the a- ges sound_ the
+%
+B3 B6 (Bc) d | c3 A3 A3- A2 G | F6 - F3 |]
+w: e- cho: Let_ the glad earth shout_ a- gain._
+%
+%%newpage
+%
+W: 1. Rolling downward, through the midnight,
+W: Comes a glorious burst of heavenly song;
+W: 'Tis a chorus full of sweetness,
+W: And the singers are an angel throng.
+W:
+W: Chorus:
+W: Glory! glory in the highest!
+W: On the earth goodwill and peace to men!
+W: Down the ages sound the echo;
+W: Let the glad earth shout again!
+W:
+W: 2. Wond'ring shepherds see the glory,
+W: Hear the word the shining ones declare;
+W: At the manger fall in worship,
+W: While the music fills the quivering air.
+W:
+W: 3. Christ the Savior, God's Anointed,
+W: Comes to earth our fearful debt to pay.
+W: Man of sorrows, and rejected,
+W: Lamb of God, that takes our sin away.

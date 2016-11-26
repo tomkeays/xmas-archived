@@ -1,0 +1,106 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Gloucestershire Wassail
+C:Traditional
+C:arr. Ralph Vaughn-Williams
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+K:E % Transposed from G
+%
+[V:1] B,  | E2    E  | E  F  G  | A   G   F   | G B B  | A  F  F  |
+[V:2] B,  | B,2   C  | B, B, E  | E   E   F   | E2  E  | C  C  C  |
+w: Was- sail, was- sail,_ all o- ver the town! Our toast it is
+[V:3] B,, | E, G, A, | G, G, B, | C   C   C   | B,2 G, | C  C  A, |
+[V:4] B,, | E,2   E, | E, E, E, | A,, A,, A,, | E,2 E, | F, F, E, |
+%
+[V:1] F  G  A   | G/F/ E/F/ G  | F2   A/A/   | G/F/ E/F/ G/A/ | B2  B/A/     |
+[V:2] B, B, D   | E    E    E  | D2   E/F/   | E    E    E    | F2  D/D/     |
+w: white and our ale it is brown, Our_ bowl it is made of the
+[V:3] B, B, B,  | B,   G,   E, | B,2  B,/B,/ | B,   G,   E,   | B,2 B,/B,/   |
+[V:4] D, D, B,, | E,   E,   E, | B,,2 C,/D,/ | E,   E,   E,   | D,2 B,,/B,,/ |
+%
+[V:1] G  E  G  | F2   E/F/   | G2  F/G/   | A2   G  | F   E   D   | E3        ||
+[V:2] E  E  E  | D2   B,/B,/ | E2  E/E/   | E2   E  | C   C   B,  | B,3       ||
+w: white ma- ple tree, With the was- sail- ing bowl we'll drink_ to thee.
+[V:3] B, G, E, | B,2  B,/B,/ | B,2 B,/B,/ | C2   B, | A,  G,  F,  | G,3       ||
+[V:4] E, E, E, | B,,2 C,/D,/ | E,2 E,/E,/ | A,,2 E, | A,, A,, B,, | [E,3E,,3] ||
+%
+[V:1] (2G   E   | (2G  B-   | B3   | (2G  E  | (2G  F-  | F3  |
+[V:2] (2E   E   | (2E  E-   | E3   | (2E  E  | (2E  B,-  | C3  |
+w: Drink_ to thee_ drink_ to thee_
+[V:3] (2G,  E,  | (2G, B,-  | B,3  | (2G, E, | (2G, F,- | F,3 |
+[V:4] (2B,, B,, | (2E, B,,- | B,,3 | (2C, C, | (2F, B,,- | C,3 |
+%
+[V:1] z2 E/F/   | G2  F/G/   | A2   G  | F   E   D   |  E2       |]
+[V:2] z2 B,/B,/ | E2  E/E/   | E2   E  | B,  B,  B,  |  B,2      |]
+w: With the was- sail- ing bowl we'll drink_ to thee.
+[V:3] z2 B,/B,/ | B,2 B,/B,/ | C2   B, | A,  G,  F,  |  G,2      |]
+[V:4] z2 C,/D,/ | E,2 E,/E,/ | A,,2 E, | A,, B,, B,, | [E,2E,,2] |]
+%
+%%newpage
+%
+W: Verses in this order and chorus only on the last time.
+W:
+W: 1. Wassail, wassail, all over the town!
+W:    Our toast it is white and our ale it is brown,
+W:    Our bowl it is made of the white maple tree;
+W:    With the wassailing bowl, we'll drink to thee.
+W:
+W: 6. And here is to Colly and to her long tail,
+W:    Pray God send our master he never may fail,
+W:    A bowl of strong beer; I pray you draw near,
+W:    And our jolly wassail it's then you shall hear.
+W:
+W: 7. Come butler, come fill us a bowl of the best,
+W:    Then we hope that your soul in heaven may rest;
+W:    But if you do draw us a bowl of the small,
+W:    Then down shall go butler, bowl and all.
+W:
+W: 8. Then here's to the maid in the lily-white smock,
+W:    Who tripped to the door and slipped back the lock!
+W:    Who tripped to the door and pulled back the pin,
+W:    For to let these jolly wassailers in.
+W:
+W: 5. And here is to Fillpail and to her left ear,
+W:    Pray God send our master a happy New Year,
+W:    And a happy New Year as e'er he did see;
+W:    With our wassailing bowl, we'll drink to thee.
+W: Chorus:
+W:    Drink to thee, drink to thee,
+W:    With our wassailing bowl we'll drink to thee.
+W:
+W:    We haven't been doing verses 2-4.
+W:
+W: 2. So here is to Cherry and to his right cheek,
+W:    Pray God send our master a good good piece of beef,
+W:    And a good piece of beef that may we all see;
+W:    With a wassailing bowl, we'll drink to thee.
+W:    Drink to thee, drink to thee,
+W:    With a wassailing bowl we'll drink to thee.
+W:
+W: 3. And here is to Dobbin and to his right eye,
+W:    Pray God send our master a good Christmas pie,
+W:    A good Christmas pie that may we all see;
+W:    With our wassailing bowl, we'll drink to thee.
+W:    Drink to thee, drink to thee,
+W:    With our wassailing bowl we'll drink to thee.
+W:
+W: 4. And here is to Broad May and to her broad horn,
+W:    May God send our master a good crop of corn,
+W:    And a good crop of corn that may we all see;
+W:    With the wassailing bowl, we'll drink to thee.
+W:    Drink to thee, drink to thee,
+W:    With the wassailing bowl we'll drink to thee.

@@ -1,0 +1,67 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:King Herod And The Cock
+C:trad. English; arr. Jerome Epstein
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | 3]
+U: H = fermata
+%
+M:C
+L:1/4
+Q:1/2=58
+K:Ab
+%
+[V:1] C  | F  F  A  B  | A  F  E  C  | F  F  A  B  | 
+[V:2] C  | F  F  E  E  | C  C  C  C  | F  F  E  E  | 
+w: There was a star in Da- vid's land, In Da- vid's land ap- 
+[V:3] C, | F, F, A, G, | A, F, E, C, | F, F, A, G, | 
+%
+[V:1] A2  z A/B/   | c c/B/  c C  | A2  B  A/B/   | c c B/A/   G  | F2  z |]
+[V:2] C2  x A/B/   | c c/B/  c C  | A2  B  A/G/   | F F E      E  | C2  x |]
+w: peared; And_ in King_ Her- od's cham- ber So_ bright it did shine there.
+[V:3] A,2 z A,/B,/ | C C/B,/ C C, | A,2 B, A,/B,/ | C C B,/A,/ G, | F,2 z |]
+%
+%%vskip 0.8cm
+%
+W: 1. There was a star in David's land, 
+W:    In David's land appeared, 
+W:    And in King Herod's chamber, 
+W:    So bright it did shine there. 
+W:    
+W: 2. The Wise Men, they soon spied it, 
+W:    And told the King a-nigh, 
+W:    A Princely Babe was born that night, 
+W:    No King shall e'er destroy. 
+W:    
+W: 3. "If this be the truth," King Herod said, 
+W:    "That thou hast told to me, 
+W:    This roasted cock that lies in the dish, 
+W:    Shall crow full senses three." 
+W:    
+W: 4. O the cock soon thrustened and feathered well, 
+W:    By the work of God's own hand, 
+W:    And he did crow full senses three, 
+W:    In the dish where he did stand! 
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%This legendary ballad of a miraculous happening at the table of Herod
+%%has been traced to early Danish sources of 1200 A.D. The English
+%%variant was collected by Cecil Sharp in Worchestershire. The singing
+%%of the story should be straightforward.
+%%Source: The Christmas Revels Songbook, 2nd edition, 1995.
+%%Nowell Sing We Clear do a similar version with slightly different words.
+%%endtext
+

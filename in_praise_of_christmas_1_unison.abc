@@ -1,0 +1,85 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:In Praise of Christmas
+T:To Drive the Cold Winter Away
+C:Words: Tom Durfey (1653-1723)
+C:Tune: 18th Century
+H:Martin Shaw and Percy Dearmer, The English Carol Book, First Series
+S:A. H. Bullen, A Christmas Garland
+S:  (London: John C. Nimmo, 1885), pp. 157-161
+Z:http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/drive_the_cold_winter_away.htm
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 3            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:6/8
+L:1/8
+K:Am %Transposed from Cm
+%
+A, | C3/ B,/ A, E2 A | G3/ F/ E c2 C | D3/ D/ E F3/ G/ F | E3- E2 A, | 
+w: 1.~All hail to the days that mer- it more praise, Than all of the rest of the year,_ And 
+w: 2.~Tis ill for a mind to an- ger in- clined To think of small in- jur- ies now,_ If 
+w: 3.~This time of the year is spent in good cheer, And neigh- bours to- geth- er do meet,_ To 
+w: 4.~When Christ- a- mas's tide comes in like a bride, With hol- ly and i_ vy clad,_ Twelve 
+%
+C3/ B,/ A, E2 A | G3/ F/ E c2 C | D3/ D/ E F3/ G/ F | E3- E2 A | 
+w: wel- come the nights, that dou- ble de- lights, As well for the poor as the peer!_ Good 
+w: wrath be to seek, do~not lend her your cheek, Nor let her in- ha- bit thy brow._ Cross 
+w: sit by the fire, with friend- ly de- sire, Each oth- er in love for to greet._ Old 
+w: days in the year, much mirth and good cheer In e- ver- y house- hold is had._ The 
+%
+G3/ F/ E G2 A | F3/ E/ D F2 G | E3/ D/ C B,2 A, | (c3 B2) A |
+w: for- tune at- tend each mer- ry man's friend, That doth but the best that~he may,_ For
+w: out of thy books ma- lev- o- lent looks, Both beau- ty and youth's de- cay,_ And 
+w: grud- ges for- got are put in the pot, All sor- rows a- side they lay;_ The 
+w: coun- t- ry guise is then to de- vise Some gam- bols of Christ- mas play,_ Where
+%
+G3/ F/ E G2 A | F3/ E/ D F2 G | 
+w: get- ting old wrongs with ca- rols and songs, To 
+w: whol- ly con- sort with mirth and with sport, To 
+w: old and the young doth ca- rol this song, To 
+w: at the young men do the best that~they can, To 
+%
+E3/ D/ C B,3/ A,/ B, | A,3- A,2 |]
+w: drive the cold win- ter a- way._
+%
+%%newpage
+%
+W: 1. All hail to the days that merit more praise
+W:    Than all of the rest of the year,
+W:    And welcome the nights that double delights
+W:    As well for the poor as the peer!
+W:    Good fortune attend each merry man's friend
+W:    That doth but the best that he may,
+W:    Forgetting old wrongs with carols and songs
+W:    To drive the cold winter away.
+W:
+W: 2. Tis ill for a mind to anger inclined
+W:    To think of small injuries now,
+W:    If wrath be to seek, do not lend her your cheek,
+W:    Nor let her inhabit thy brow.
+W:    Cross out of thy books malevolent looks,
+W:    Both beauty and youth's decay,
+W:    And wholly consort with mirth and with sport
+W:    To drive the cold winter away.
+W:
+W: 3. This time of the year is spent in good cheer,
+W:    And neighbours together do meet,
+W:    To sit by the fire, with friendly desire,
+W:    Each other in love for to greet.
+W:    Old grudges forgot are put in the pot,
+W:    All sorrows aside they lay;
+W:    The old and the young doth carol this song,
+W:    To drive the cold winter away.
+W:
+W: 4. When Christmas's tide comes in like a bride,
+W:    With holly and ivy clad,
+W:    Twelve days in the year, much mirth and good cheer
+W:    In every household is had.
+W:    The country guise is then to devise
+W:    Some gambols of Christmas play,
+W:    Whereat the young men do the best that they can
+W:    To drive the cold winter away.

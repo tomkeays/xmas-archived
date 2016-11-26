@@ -1,0 +1,119 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Cutty Wren, The
+C:Collected from an Adderbury shepherd by A.L. Lloyd
+C:-set to a version of the tune, "Green Bushes"
+N:notes from http://www.mysongbook.de/msb/songs/c/cutywren.html
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:6/8
+L:1/8
+Q:3/8=60
+K:A dorian
+%
+E | A A (B/A/) G A B | e e (d/B/) G A E | 
+w: Oh where are you_ go- ing, said Mil- der to_ Moul- der. Oh
+%
+A A (B/A/) G A B | e g f e2 d e |
+w: we may not_ tell you, said Fes- tel to Fose. We're off 
+%
+e a (e f) g | B d B (G A) E | 
+w: to the woods,_ said John the Red Nose._ We're 
+%
+A A (B/A/) (G A) B | e d B A2 |] 
+w: off to the_ woods,_ said John the Red Nose. 
+%
+%%vskip 0.8cm
+%
+W: Oh where are you going, said Milder to Moulder.
+W: Oh we may not tell you, said Festel to Fose.
+W: We're off to the woods, said John the Red Nose. 
+W: We're off to the woods, said John the Red Nose. 
+W: 
+W: And what will you do there, said Milder to Moulder. 
+W: Oh we may not tell you, said Festel to Fose.
+W: We'll hunt the Cutty wren, said John the Red Nose. 
+W: We'll hunt the Cutty wren, said John the Red Nose. 
+W: 
+W: And how will you shoot her, said Milder to Moulder. 
+W: Oh we may not tell you, said Festel to Fose.
+W: With bows and with arrows, said John the Red Nose. 
+W: With bows and with arrows, said John the Red Nose. 
+W: 
+W: Oh that will not do, said Milder to Moulder. 
+W: Oh what will you do then, said Festel to Fose 
+W: Big guns and big cannon, said John the Red Nose. 
+W: Big guns and big cannon, said John the Red Nose. 
+W: 
+W: And how will you carry her, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose 
+W: On four strong men's shoulders, said John the Red Nose. 
+W: On four strong men's shoulders, said John the Red Nose. 
+W: 
+W: But that will not do, said Milder to Moulder 
+W: Oh what will do then, said Festel to Fose 
+W: In a big horse and wagon, said John the Red Nose. 
+W: In a big horse and wagon, said John the Red Nose. 
+W: 
+W: And how will you cut her up, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose.
+W: With knives and with forks, said John the Red Nose. 
+W: With knives and with forks, said John the Red Nose. 
+W: 
+W: But that will not do, said Milder to Moulder 
+W: Oh what will you do then, said Festel to Fose 
+W: Hatchets and cleavers, said John the Red Nose. 
+W: Hatchets and cleavers, said John the Red Nose. 
+W: 
+W: Oh how will you cook her, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose.
+W: In pots and in pans, said John the Red Nose 
+W: In pots and in pans, said John the Red Nose 
+W: 
+W: Oh but that will not do, said Milder to Moulder 
+W: Oh what will you do then, said Festel to Fose 
+W: In a bloody great brass cauldron, said John the Red Nose. 
+W: In a bloody great brass cauldron, said John the Red Nose. 
+W: 
+W: Oh who'll get the spare ribs, said Milder to Moulder 
+W: Oh we may not tell you, said Festel to Fose.
+W: We'll give 'em all to the poor, said John the Red Nose. 
+W: We'll give 'em all to the poor, said John the Red Nose. 
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%The well-known Cutty wren or Hunting the wren is often
+%%thought of as an amiable nursery piece, yet when it was
+%%recorded from an old shepherd of Adderbury West, near
+%%Banbury, he banged the floor with his stick on the accented
+%%notes and stamped violently at the end of the verses, saying
+%%that to stamp was the right way and reminded of old times.
+%%What memories of ancient defiance are preserved in this kind
+%%of performance it would be hard to say, but we know that the
+%%wren-hunting song was attached to a pagan midwinter ritual
+%%of the kind that Church and authority fulminated vainly
+%%against - particularly in the rebellious period at the end
+%%of the Middle Ages when adherence to the forms of the Old
+%%Religion was taken to be evidence of subversion, and its
+%%partisans were violently persecuted in consequence.
+%%(Lloyd, England 90f) 
+%%endtext
+%%vskip 0.4cm
+%%begintext fill
+%%Tune is a version of "Green Bushes " from Sharp's book,
+%%"English Folk Songs".
+%%endtext
+%%vskip 0.4cm
+%%begintext fill
+%%There is a Manx legend that during the Irish rebellion, when
+%%English soldiers and Manx Fencibles were in Ireland, the
+%%noise made by the wren on the end of a drum woke a sleeping
+%%sentry and thus saved them from being taken unawares; this
+%%was the reason for hunting the wren on St. Stephen's Day.
+%%endtext

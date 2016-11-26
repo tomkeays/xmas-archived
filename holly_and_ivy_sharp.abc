@@ -1,0 +1,69 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Holly and the Ivy, The
+C:collected by Cecil Sharp from Mrs. Clayton at Chipping Campden
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:3/4
+L:1/4
+Q:85
+K:G
+%
+G | G/G/ G e | (d B3/2) G/ | G/G/ G e | d2 (d/c/) |
+w: The hol- ly and the i- vy, When they are both full grown, Of_
+%
+B/A/ G B/B/ | E/E/ D (G/A/) | B/c/ B A | G2 ||
+w: all the trees that are in the wood, The_ hol- ly bears the crown.
+%
+"Chorus" G | G/G/ G e | (d B) G/G/ | G/G/ G e | d2 (d/c/) |
+w: The ris- in of the sun,_ And the run- ning of the deer, The_
+%
+B/A/ G B | E/E/ D G/A/ | B/c/ B A | G2 |]
+w: play- ing of the mer- ry or- gan, Sweet sing- ing in the choir.
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%text This one is dubbed the "mall version" and we generally don't sing it.
+%
+%%vskip 0.8cm
+%
+W: 1. The holly and the ivy,
+W:    When they are both full grown.
+W:    Of all the trees that are in the wood
+W:    The holly bears the crown.
+W:
+W:    CHORUS
+W:    Oh, the rising of the sun,
+W:    And the running of the deer,
+W:    The playing of the merry organ,
+W:    Sweet singing in the choir.
+W:
+W: 2. The holly bears a blossom,
+W:    As white as the lily flower,
+W:    And Mary bore sweet Jesus Christ,
+W:    To be our sweet Savior.
+W:
+W: 3. The holly bears a berry,
+W:    As red as any blood,
+W:    And Mary bore sweet Jesus Christ,
+W:    To do poor sinners good.
+W:
+W: 4. The holly bears a prickle,
+W:    As sharp as any thorn,
+W:    And Mary bore sweet Jesus Christ,
+W:    On Christmas Day in the morn.
+W:
+W: 5. The holly bears a bark,
+W:    As bitter as any gall,
+W:    And Mary bore sweet Jesus Christ,
+W:    For to redeem us all.
+W:
+W: 6. The holly and the ivy,
+W:    When they are both full grown.
+W:    Of all the trees are in the wood
+W:    The holly bears the crown.

@@ -1,0 +1,88 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Over the Hill and Over the Dale
+C:Piae Cantiones, 1582 
+C:English words by J.M. Neale
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:3/4
+L:1/4
+Q:3/4=60
+K:A dorian
+%
+E F A | (E F) A | G F G | E3 | (G A) B | (B A) G | A A2- | A3 |
+w: 1.~O- ver the hill_ and o- ver the dale, Came_ three kings_ to- ge- ther,_ 
+%
+(E F) A | (E F) A | (G F) G | E3 | (G A) B | (B A) G | A A2- | A3 ||
+w: Car_ ing nought_ for snow_ and hail, Cold_ and wind_ and wea- ther._ 
+%
+A2 e | e2 d | (e d) c | B3 | A2 B | ((c B) A) | (G F) G | E3 | 
+w: Now on Per- sia's san_ dy plain, Now where Ti_gris swells_ with rain,
+%
+(G A) B | (B A) G | A A2- | A3 | A2 e | (e2 d) | (e d) c | B3 | 
+w: They_ their ca_ mels te- ther._ Now through Sy- rian lands_ they go,
+%
+A2 B | ((c B) A) | (G F) G | E3 | (G A) B | (B A) G | A A2- | A3 |] 
+w: Now through Mo_ ab, faint_ and slow, Now_ o'er E_dom's hea- ther._
+%
+%%vskip 0.8cm
+%
+W: 1. Over the hill and over the dale 
+W:    Came three kings together, 
+W:    Caring nought for snow and hail, 
+W:    Cold and wind and weather. 
+W:    Now on Persia's sandy plain, 
+W:    Now where Tigris swells with rain, 
+W:    They their camels tether. 
+W:    Now through Syrian lands they go, 
+W:    Now through Moab, faint and slow, 
+W:    Now o'er Edom's heather. 
+W:    
+W: 2. Over the hill and over the dale 
+W:    Each king bears a present, 
+W:    Wise men go, a child to hail, 
+W:    Monarchs seek a peasant. 
+W:    And in front, a star proceeds, 
+W:    Over rocks and rivers leads, 
+W:    Shines with beams incessant. 
+W:    Therefore onward, onward still, 
+W:    Ford the stream and climb the hill; 
+W:    Love makes all things pleasant. 
+W:    
+W: 3. He is God ye go to meet, 
+W:    Therefore incense proffer; 
+W:    He is King ye go to greet, 
+W:    Gold is in your coffer. 
+W:    Also, man, he comes to share 
+W:    Every woe that man can bear, 
+W:    Tempter, railer, scoffer. 
+W:    Therefore now, against the day, 
+W:    In the grave when Him they lay, 
+W:    Myrrh ye also offer. 
+W:    
+W: 4. Over the hill and over the dale 
+W:    Riding east together, 
+W:    Caring nought for snow and hail, 
+W:    Nought for wind and weather. 
+W:    Warned by God from Herod's door 
+W:    Each king turns for home once more, 
+W:    Hearts and footsteps lighter. 
+W:    Now behind them shines the star 
+W:    Which they followed from afar, 
+W:    Shining ever brighter. 
+W: 
+
+%%textfont Times-Italic 14
+%%begintext fill
+%%Over the Hill and Over the Dale is by J.M. Neale, a setting
+%%to a tune from the Piae Cantiones, a book of Latin carols
+%%compiled in Finland in 1582. Neale composed English texts
+%%for several of them, Good King Wenceslas being the
+%%best-known.
+%%[Tune and notes transcribed from Nowell Sing We Clear.]
+%%endtext

@@ -1,0 +1,86 @@
+X:1
+T:Sherburne C. M.
+T:While Shepherds Watched Their Flocks
+C:Music by Daniel Read, 1793
+C:Text by Nahum Tate & Nicholas Brady, Supplement to the New Version of the Psalms , Ireland, 1700
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble
+V:4 clef=bass
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [1 | 2 | 3 | 4]
+M:4/4
+L:1/4
+K:C & Transposed from D
+Q:150
+%
+[V:1] G2  G  E  | F/G/ A/B/ c c | c3   c   | B     G  A  G  | G3   ||
+w: 1.~While shep- herds watched - their - flocks by night, All seat- ed on the ground.
+w: 2.~All glo- ry be - to - God on high, And to the earth be peace.
+[V:2] C2  C  C  | C    C    C E | E3   E   | E     C  B,  C  | D3   ||
+w: 1.~While shep- herds watched their flocks by night, All seat- ed on the ground.
+w: 2.~All glo- ry be to God on high, And to the earth be peace.
+[V:3] G2  E  C  | A    A    A G | A3   c   | G/>E/ C  F  E  | D3   ||
+w: 1.~While shep- herds watched their flocks by night, All seat_ ed on the ground.
+w: 2.~All glo- ry be to God on high, And to_ the earth be peace.
+[V:4] C,2 C, C, | F,  F, F, C,  | A,,3 A,, | E,    E, D, C, | G,,3 ||
+w: 1.~While shep- herds watched their flocks by night, All seat- ed on the ground.
+w: 2.~All glo- ry be to God on high, And to the earth be peace.
+%
+[V:1] |: z   | z4          | z4              | z3    G |
+w: The
+w: Good
+[V:2] |: z   | z4          | z3          G,  | C C E C |
+w: The an- gel of the
+w: Good will hence- forth from
+[V:3] |: z   | z3       G  | c   c   e   c   | A A A G |
+w: The an- gel of the Lord came down, And
+w: Good will hence- forth from heav'n to men, Be-
+[V:4] |: G,, | C, C, E, C, | A,, A,, A,, G,, | C,4-    |
+w: The an- gel of the Lord came down, And glo
+w: Good will hence- forth from heav'n to men, Be- gin
+%
+[V:1] c  c  e  c  | A   A   A   G  | A3    A | A A A G/F/ |
+w: an- gel of the Lord came down, And glo- ry shown a- round, And_
+w: will hence- forth from heav'n to men, Be- gin and nev- er cease, Be_
+[V:2] A, A, A, G, | C3          E  | D D D D | D4-        |
+w: Lord came down, And glo- ry shown a- round, And glo
+w: heav'n to men, Be- gin and nev- er cease, Be- gin
+[V:3] c3       G  | E   E   E   G  | A3    F | D D D2     |
+w: glo- ry shown a- round, And glo- ry shown a- round,
+w: gin and nev- er cease. Be- gin and nev- er cease.
+[V:4] C,3      E, | A,, A,, A,, C, | D,4-    | D,3     D, |
+w: - ry shown a- round, And glo_ ry
+w: - and nev- er cease, Be- gin_ and
+%
+[V:1] G3      G | E E E2   | z3       E  | G  G  G  G  |
+w: glo- ry shown a- round. The an- gel of the
+w: gin and nev- er cease. Good will hence- forth from
+[V:2] D3      D | C C C2   | E2    E  E  | E  E  E  C  |
+w: - ry shown a- round. The an- gel of the Lord came
+w: - and nev- er cease. Good will hence- forth from  heav'n to
+[V:3] z3      G | A A A c  | G  G  G  C  | C3       C  |
+w: The an- gel of the Lord came down, And glo- ry
+w: Good will hence- forth from heav'n to men, Be- gin and
+[V:4] G, G, G,2 | z3    C, | C, C, C, C, | G, E, C, E, |
+w: shown a- round. The an- gel of the Lord came down, And
+w: nev- er cease. Good will hence- forth from heav'n to  men, Be-
+%
+[V:1] A A A c    | d3   B   | c c c2- | c3 :|
+w: Lord came down, And glo- ry shown a- round_
+w: heav'n to  men, Be- gin and nev- er cease_
+[V:2] D D D E/F/ | G3   F   | E4-     | E3 :|
+w: down, And glo_ ry shown a- round_
+w: men, Be- gin_ and nev- er cease_
+[V:3] F F F A    | D3   C   | G G G2- | G3 :|
+w: shown a- round, And glo- ry shown a- round_
+w: nev- er cease, Be- gin and nev- er cease_
+[V:4] D,3   C,   | G,,3 G,, | C,4-    | C,3 :|
+w: glo- ry shown a- round_
+w: gin and nev- er cease_

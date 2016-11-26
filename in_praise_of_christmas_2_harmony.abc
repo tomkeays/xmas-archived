@@ -1,0 +1,95 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:In Praise of Christmas
+T:To Drive the Cold Winter Away
+C:Words: Tom Durfey (1653-1723)
+C:Tune: 18th Century
+H:Martin Shaw and Percy Dearmer, The English Carol Book, First Series
+S:A. H. Bullen, A Christmas Garland
+S:  (London: John C. Nimmo, 1885), pp. 157-161
+Z:http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/drive_the_cold_winter_away.htm
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+M:6/8
+L:1/8
+K:Cm
+%
+[V:1] C  | E3/  D/  C  G2  c  | B3/  A/  G  e2  E  | F3/  F/  G   A3/   B/   A  |
+[V:2] C  | C3/  C/  C  C2  E  | G3/  F/  E  E2  E  | D3/  D/  D   E3/   E/   E  | 
+w: All hail to the days that mer- it more praise, Than all of the rest of the
+[V:3] E, | G,3/ F,/ E, G,2 G, | G,3/ A,/ B, B,2 B, | B,3/ B,/ B,  C3/   C/   C  | 
+[V:4] C, | C,3/ C,/ C, E,2 C, | E,3/ E,/ E, G,2 G, | B,3/ B,/ B,, A,,3/ A,,/ C, | 
+%
+[V:1] G3-  G2  C  | E3/  D/  C  G2  c  | B3/  A/  G  e2  E  |
+[V:2] E3-  E2  C  | C3/  C/  C  C2  E  | G3/  F/  E  E2  E  | 
+w: year,_ And wel- come the nights that dou- ble de- lights, As
+[V:3] B,3- B,2 A, | G,3/ F,/ E, G,2 G, | G,3/ A,/ B, B,2 B, | 
+[V:4] E,3- E,2 F, | C,3/ C,/ C, E,2 C, | E,3/ E,/ E, G,2 G, | 
+%
+[V:1] F3/  F/  G   A3/  B/  A   |  G3-  G2  c   | B3/  G/  E  B2  c  |
+[V:2] D3/  D/  D   C3/  C/  C   | =E3-  E2  F   | G3/  E/  C  B,2 E  | 
+w: well for the poor as the peer!_ Good for- tune at- tend each
+[V:3] B,3/ B,/ B,  A,3/ G,/ F,  |  G,3- G,2 A,  | B,3/ B,/ A, G,2 G, | 
+[V:4] B,3/ B,/ B,, F,3/ F,/ F,, |  C,3- C,2 A,, | E,3/ E,/ A, E,2 C, | 
+%
+[V:1] A3/  G/  F  A2  B   | G3/  F/  E  D2   C/   C/   | e3  z (d c) |
+[V:2] C3/  B,/ A, C2  D   | B,3/ B,/ C  D2   E/   F/   | G3  z (B A) | 
+w: mer- ry man's friend, That doth but the best that he may, For_
+[V:3] A,3/ B,/ C  F,2 F,  | E,3/ F,/ G, B,2  C/   C/   | G,3 z  F,2  | 
+[V:4] F,3/ F,/ F, F,2 B,, | E,3/ D,/ C, B,,2 A,,/ A,,/ | C,3 z  D,2  | 
+%
+[V:1] B3/  G/  E  B2  c  | A3/  G/  F  A2  B   | G3/  F/  E   D3/   C/   D   | C3-  C2  |]
+[V:2] G3/  E/  C  B,2 E  | F3/  F/  C  F2  D   | B,3/ B,/ C   G,3/ =A,/ =B,  | C3-  C2  |]
+w: get- ting old wrongs with ca- rols and songs, To drive the cold win- ter a- way._
+[V:3] B,3/ B,/ A, G,2 G, | A,3/ B,/ C  F,2 F,  | E,3/ F,/ G, =B,3/ =A,/  G,  | G,3- G,2 |]
+[V:4] E,3/ E,/ A, E,2 C, | F,3/ F,/ F, F,2 B,, | E,3/ D,/ C,  G,3/  G,/  G,, | C,3- C,2 |]
+%
+%%newpage
+%
+W: 1. All hail to the days that merit more praise
+W:    Than all of the rest of the year,
+W:    And welcome the nights that double delights
+W:    As well for the poor as the peer!
+W:    Good fortune attend each merry man's friend
+W:    That doth but the best that he may,
+W:    Forgetting old wrongs with carols and songs
+W:    To drive the cold winter away.
+W:
+W: 2. Tis ill for a mind to anger inclined
+W:    To think of small injuries now,
+W:    If wrath be to seek, do not lend her your cheek,
+W:    Nor let her inhabit thy brow.
+W:    Cross out of thy books malevolent looks,
+W:    Both beauty and youth's decay,
+W:    And wholly consort with mirth and with sport
+W:    To drive the cold winter away.
+W:
+W: 3. This time of the year is spent in good cheer,
+W:    And neighbours together do meet,
+W:    To sit by the fire, with friendly desire,
+W:    Each other in love for to greet.
+W:    Old grudges forgot are put in the pot,
+W:    All sorrows aside they lay;
+W:    The old and the young doth carol this song,
+W:    To drive the cold winter away.
+W:
+W: 4. When Christmas's tide comes in like a bride,
+W:    With holly and ivy clad,
+W:    Twelve days in the year, much mirth and good cheer
+W:    In every household is had.
+W:    The country guise is then to devise
+W:    Some gambols of Christmas play,
+W:    Whereat the young men do the best that they can
+W:    To drive the cold winter away.
+

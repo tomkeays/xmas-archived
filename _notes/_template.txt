@@ -1,0 +1,40 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:
+C:
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+%
+M:
+L:
+K:
+
+
+
+
+%
+%%vskip 0.8cm
+%
+
+
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%
+%%
+%%
+%%endtext
+

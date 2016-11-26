@@ -1,0 +1,53 @@
+%%footer	"$P0	Kentucky Wassail	$P1"
+
+X:1
+T:Kentucky Wassail
+C:trad. American
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:2/4
+L:1/8
+Q:1/4=88
+K:G
+%
+(D/E/) | G (G/A/) d (e/d/) | c/ B/ A A> d |
+w: Was_ sail, was_ sail, all_ o- ver ther town, Our
+%
+B G G A/ B/ | A D D (d/c/) | (B/A/) G (G/A/) B/ G/ |
+w: cup is  white and our ale is brown. The_ cup_ is made_ from the
+%
+A D D d/ c/ | [M:3/4] (B/A/) G (G/A/) (B/G/) A d | [M:2/4] d2 d c |
+w: old oak tree, And the ale_ is made_ in_ Ken- tuck- y, So it's
+%
+B2 A G | D2 G F | G <G G2 | G3 |]
+w: joy be to you and a jol- ly was- sail.
+%
+%%vskip 0.8cm
+%
+W: 1. Wassail, wassail, all over ther town,
+W:    Our cup is  white and our ale is brown.
+W:    The cup is made from the old oak tree,
+W:    And the aleis madeinKentucky,
+W:    So it's joy be to you and a jolly wassail.
+W:
+W: 2. Oh, good man and good wife, are you within?
+W:    Pray lift the latch and let us come in.
+W:    We see you a-sitting at the boot o' the fire,
+W:    Not a-thinkin' of us in the mud and the mire.
+W:    So it's joy be to you and a jolly wassail.
+W:
+W: 3. There was an old maid and she lived in a house,
+W:    And she had for a pet a tiny wee mouse.
+W:    Oh, the house had a stove and the house was warm,
+W:    And a little bit of liquor won't do no harm.
+W:    So it's joy be to you and a jolly wassail.
+W:
+W: 4. Oh, a man in York drank his sack from a pail,
+W:    But all we ask is a wee wassail.
+W:    Oh, husband and wife, alack, we part,
+W:    God bless this house from the bottom of our heart.
+W:    So it's joy be to you and a jolly wassail.

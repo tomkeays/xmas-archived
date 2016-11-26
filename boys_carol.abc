@@ -1,0 +1,220 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Boys Carol, The
+T:Personent Hodie
+C:14th Century tune (Piae Cantiones, 1582)
+C:Translation from Elizabeth Poston's Penguin Book of Christmas Carols
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 5            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [(1 2) | (3 4)]
+U: H = fermata
+%
+M:C|
+L:1/4
+K:F %Transposed from G
+%
+[V:1] D  D  A2  | G  G  A2  | A  A  d2 |
+[V:2] D  D  A2  | G  C  D2  | D  A  D2 |
+w: Per- so- nent ho- di- e, Vo- ces pu-
+w: Let the boys' cheer- ful noise, Sing to- day
+[V:3] D, D, A,2 | G, G, A,2 | A, A, D2 |
+[V:4] D, D, A,2 | G, C, D,2 | D, A, D2 |
+%
+[V:1] =B c  A2 | G  A  c2   | G  A  F2   |  E  D  E   C   |
+[V:2]  G G  F2 | D  D  C2   | D  D  C2   | =B, C  B,  G,  |
+w: er- u- lae, Lau- dan- tes jo- cun- de, Qui no- bis est
+w:  none but joys, Praise a- loud, clear and proud, Praise to him in
+[V:3] A, A, D2 | D, D, A,2  | D, D, A,2  |  D, D, A,  A,  |
+[V:4] A, A, D2 | D, D, A,,2 | D, D, A,,2 |  D, D, A,, A,, |
+%
+[V:1] D2   D2  | D   F   G   C   | D2   D2  || E  F  G2  |
+[V:2] A,2  A,2 | E   C  =B,  C   | A,2  D2  || C  D  C2  |
+w: na- tus, Sum- mo De- o da- tus, Et de vir,
+w: cho- rus, Giv'n from hea- ven for us, Vir- gin-born,
+[V:3] D,2  D,2 | D,  D,  D,  D,  | D,2  D,2 || C, C, G,2 |
+[V:4] A,,2 D,2 | A,, A,, G,, G,, | G,,2 D,2 || C, C, C,2 |
+%
+[V:1]  G2    G2  | F G A2    |  A2     A2  |  E  F  G2  |
+[V:2]  C2    C2  | D E F2    |  F2     F2  |  C  D  E2  |
+w: vir, vir, Et de vir, vir, vir, Et de vir-
+w: born, born, Vir- gin-born, born, born, Vir- gin-born
+[V:3] (E,F,) G,2 | z2  G, A, | (A,=B,) C2  | =B, A, G,2 |
+[V:4]  C,2   C,2 | z2  D, E, | (F, G,) A,2 |  G, F, E,2 |
+w: * * Et de vir, * vir, * * *
+w: * * Vir- gin- born, * born, * * *
+%
+[V:1] F  E  D2  | E  D  E  C  | D2  D2  |]
+[V:2] D  C =B,2 | C =B, C  C  | D2  D2  |]
+w: gin- ne- o ven- tre pro- cre- a- tus.
+w: on that morn, Pro- cre- a- ted for us.
+[V:3] F, G, A,2 | G, A, G, G, | D,2 A,2 |]
+[V:4] D, E, F,2 | E, F, E, C, | D,2 D,2 |]
+%
+%%vskip 0.8cm
+%
+W: 1a. Personent hodie,
+W:     Voces puerulae,
+W:     Laudantes jocunde,
+W:     Qui nobis est natus,
+W:     Summo Deo datus,
+W:     Et de vir, vir, vir,
+W:     Et de vir, vir, vir,
+W:     Et de virginneo
+W:     Ventre procreatus.
+W:
+W: 1b. Let the boys' cheerful noise,
+W:     Sing today none but joys,
+W:     Praise aloud, clear and proud,
+W:     Praise to him in chorus,
+W:     Giv'n from heaven for us,
+W:     Virgin-born, born, born,
+W:     Virgin-born, born, born,
+W:     Virgin-born on that morn,
+W:     Procreated for us.
+W:
+W: 2.  He who rules heaven and earth
+W:     Lies in stall at his birth,
+W:     Humble beasts at his feast
+W:     See the Light eternal
+W:     Vanquish realms infernal:
+W:     Satan's done, done, done,
+W:     Satan's done, done, done,
+W:     Satan's done, God has won,
+W:     Victor he, supernal.
+W:
+W: 3.  Magi come from afar
+W:     See their sun, tiny one,
+W:     Follow far, little star,
+W:     At the crib adoring,
+W:     Man to God restoring,
+W:     Gold and myrrh, myrrh, myrrh,
+W:     Gold and myrrh, myrrh, myrrh,
+W:     Gold and myrrh offered there,
+W:     Incense for adoring.
+W:
+W: 4.  Clerk and boy, join in joy,
+W:     Sing as heaven sings for joy,
+W:     God this day here doth stay,
+W:     Pour we forth the story
+W:     Of his might and glory:
+W:     Ideo, o, o,
+W:     Ideo, o, o,
+W:     Ideo gloria
+W:     In excelsis Deo.
+W: 
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%Piae Cantiones, a book of Latin carols compiled in Finland in 1582,
+%%gives us The Boys' Carol, with a translation of the original text
+%%from Elizabeth Poston's Penguin Book of Christmas Carols.
+%%[Notes from Nowell Sing We Clear.]
+%%endtext
+
+%%newpage
+
+X:1
+T:Boys Carol, The
+M:none
+K:none
+%
+W: 1. Personent hodie,
+W:    Voces puerulae,
+W:    Laudantes jocunde,
+W:    Qui nobis est natus,
+W:    Summo Deo datus,
+W:    Et de vir, vir, vir,
+W:    Et de vir, vir, vir,
+W:    Et de virginneo
+W:    Ventre procreatus.
+W:
+W: 2. In mundo nascitur,
+W:    Pannis involvitur,
+W:    Praesepi ponitur
+W:    Stabulo brutorum
+W:    Rector supernorum,
+W:    Perdidit, dit, dit,
+W:    Perdidit, dit, dit,
+W:    Perdidit spolia
+W:    Princeps infernorum.
+W:
+W: 3. Magi tres venerunt,
+W:    Parvulum inquirunt,
+W:    Parvulum inquirunt,
+W:    Stellulam sequendo,
+W:    Ipsum adorando,
+W:    Aurum, thus, thus, thus,
+W:    Aurum, thus, thus, thus,
+W:    Aurum, thus, et myrrham
+W:    Ei offerendo.
+W:
+W:  4. Omnes clereculi,
+W:    Pariter pueri,
+W:    Cantent ut angeli:
+W:    Advenisti mundo,
+W:    Laudes tibi fundo.
+W:    Ideo, o, o,
+W:    Ideo, o, o,
+W:    Ideo gloria
+W:    In excelsis Deo.
+W:
+W: 1. Let the boys' cheerful noise,
+W:    Sing today none but joys,
+W:    Praise aloud, clear and proud,
+W:    Praise to him in chorus,
+W:    Giv'n from heaven for us,
+W:    Virgin-born, born, born,
+W:    Virgin-born, born, born,
+W:    Virgin-born on that morn,
+W:    Procreated for us.
+W:
+W: 2. He who rules heaven and earth
+W:    Lies in stall at his birth,
+W:    Humble beasts at his feast
+W:    See the Light eternal
+W:    Vanquish realms infernal:
+W:    Satan's done, done, done,
+W:    Satan's done, done, done,
+W:    Satan's done, God has won,
+W:    Victor he, supernal.
+W:
+W: 3. Magi come from afar
+W:    See their sun, tiny one,
+W:    Follow far, little star,
+W:    At the crib adoring,
+W:    Man to God restoring,
+W:    Gold and myrrh, myrrh, myrrh,
+W:    Gold and myrrh, myrrh, myrrh,
+W:    Gold and myrrh offered there,
+W:    Incense for adoring.
+W:
+W: 4. Clerk and boy, join in joy,
+W:    Sing as heaven sings for joy,
+W:    God this day here doth stay,
+W:    Pour we forth the story
+W:    Of his might and glory:
+W:    So to God, God, God,
+W:    So to God, God, God,
+W:    So to God glory be,
+W:    In the highest, glory.
+W: 
+
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%Piae Cantiones, a book of Latin carols compiled in Finland in 1582,
+%%gives us The Boys' Carol, with a translation of the original text
+%%from Elizabeth Poston's Penguin Book of Christmas Carols.
+%%[Notes from Nowell Sing We Clear.]
+%%endtext
