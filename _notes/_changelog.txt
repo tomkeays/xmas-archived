@@ -1,6 +1,14 @@
 CHANGELOG 
 =========
 
+November 26, 2016
+=================
+
+Dona Nobis Pacem
+----------------
+Fixed parsing of words in w: field
+
+
 November 22, 2014
 =================
 
