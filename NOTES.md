@@ -8,7 +8,7 @@ Moved _notes/changelog.txt to this file, NOTES.md and changed formatting to Mark
 
 ### Dona Nobis Pacem
 
-Fixed parsing of words in w: field
+Fixed parsing of words in w: field; reset as multiple voices to make the staves line up better
 
 
 ## November 22, 2014
