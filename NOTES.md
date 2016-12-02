@@ -1,5 +1,12 @@
 # CHANGELOG 
 
+## December 2, 2016
+
+### End of Summer
+
+Re-created the PDF of this song. Old version was, in error, actually the Karpeles version of the Holly and the Ivy. File has been incorrect at least since June 10, 2010. 
+
+
 ## November 26, 2016
 
 ### Housekeeping
