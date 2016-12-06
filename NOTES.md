@@ -1,5 +1,13 @@
 # CHANGELOG 
 
+## December 5, 2016
+
+### Shepherds Arise
+
+- K:D
+- Add two part setting of Shepherds Arise from Bob Copper's book, "A Song For Every Season".
+- Created two versions: one with both voices set on a single treble stave, as in the book, and the other with each voice on separate treble staves. 
+
 ## December 2, 2016
 
 ### End of Summer
