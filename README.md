@@ -1,6 +1,6 @@
 # Christmas Carols
 
-** Deprecated** -- Visit https://github.com/syracuse-singers/xmas
+*Deprecated* -- Visit https://github.com/syracuse-singers/xmas
 
 This repository is for the informal group of carolers in Syracuse New York. Most of these are public domain, but there are a few songs that are still under copyright. 
 
